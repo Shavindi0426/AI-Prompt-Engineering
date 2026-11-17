@@ -1,0 +1,10 @@
+
+Experiment,Prompt Version,Accuracy,Relevance,Completeness,Clarity,Instruction Following,Average Score
+Data Analysis,Initial (V1),4,5,5,5,4,4.6
+Data Analysis,Improved (V2),4,5,5,5,5,4.8
+Summarization,Initial (V1),3,5,4,5,4,4.2
+Summarization,Improved (V2),5,5,5,5,5,5.0
+Classification,Initial (V1),5,5,3,4,3,4.0
+Classification,Improved (V2),5,5,5,5,5,5.0
+Content Generation,Initial (V1),5,5,5,4,5,4.8
+Content Generation,Improved (V2),5,5,5,4,5,4.8

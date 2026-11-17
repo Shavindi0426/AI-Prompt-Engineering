@@ -1,0 +1,49 @@
+
+TASK: CLASSIFICATION
+
+VERSION 1: INITIAL PROMPT
+
+Classify the following customer feedback as
+Positive, Negative, or Neutral.
+
+FEEDBACK:
+{feedback_text}
+
+
+VERSION 2: IMPROVED PROMPT
+
+You are an AI customer feedback classification
+specialist.
+
+Classify the supplied customer review into exactly
+one of the following categories:
+
+1. Positive – The customer expresses satisfaction
+   or a favorable experience.
+
+2. Negative – The customer expresses dissatisfaction,
+   complaints, or an unfavorable experience.
+
+3. Neutral – The feedback is mainly factual, mixed,
+   or does not express a clearly positive or negative
+   opinion.
+
+Instructions:
+
+- Consider the meaning and context of the review.
+- Do not use the star rating as a substitute for
+  analysing the feedback text.
+- Select exactly one category.
+- Provide a short explanation for your decision.
+- Do not invent information.
+
+Return the result in this JSON format:
+
+{
+  "review_id": "provided review ID",
+  "predicted_sentiment": "Positive/Negative/Neutral",
+  "reason": "Brief explanation"
+}
+
+CUSTOMER REVIEW:
+{feedback_text}

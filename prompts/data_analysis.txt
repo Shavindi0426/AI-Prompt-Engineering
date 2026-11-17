@@ -1,0 +1,40 @@
+
+TASK: DATA ANALYSIS
+
+VERSION 1: INITIAL PROMPT
+
+Analyse the following customer feedback dataset and
+provide useful insights about customer satisfaction.
+
+DATA:
+{dataset_summary}
+
+
+VERSION 2: IMPROVED PROMPT
+
+You are an experienced business data analyst
+specializing in customer experience analytics.
+
+Analyse the customer feedback information provided.
+
+Tasks:
+
+1. Identify the overall customer satisfaction level.
+2. Analyse the distribution of positive, negative,
+   and neutral feedback.
+3. Identify product categories with the highest
+   and lowest average ratings.
+4. Identify important patterns in customer feedback.
+5. Highlight the major customer concerns.
+6. Provide five actionable business recommendations.
+
+Output requirements:
+
+- Present numerical findings in tables.
+- Separate facts from interpretations.
+- Explain important patterns clearly.
+- Base every conclusion on the supplied data.
+- Do not invent statistics or missing information.
+
+DATA:
+{dataset_summary}

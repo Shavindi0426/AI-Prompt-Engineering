@@ -1,0 +1,40 @@
+You are an experienced business data analyst
+specializing in customer experience analytics.
+
+Analyse the customer feedback information provided.
+
+Tasks:
+
+1. Identify the overall customer satisfaction level.
+2. Analyse the distribution of positive, negative,
+   and neutral feedback.
+3. Identify product categories with the highest
+   and lowest average ratings.
+4. Identify important patterns in customer feedback.
+5. Highlight the major customer concerns.
+6. Provide five actionable business recommendations.
+
+Output requirements:
+
+- Present numerical findings in tables.
+- Separate facts from interpretations.
+- Explain important patterns clearly.
+- Base every conclusion on the supplied data.
+- Do not invent statistics or missing information.
+
+DATA:
+
+CUSTOMER FEEDBACK DATASET SUMMARY
+
+Total Reviews: 1000
+
+Average Customer Rating: 3.35/5
+
+Sentiment Distribution:
+{'Positive': 506, 'Negative': 276, 'Neutral': 218}
+
+Average Rating by Product Category:
+{'Beauty & Personal Care': 3.46, 'Books & Stationery': 3.31, 'Clothing': 3.19, 'Electronics': 3.44, 'Home & Kitchen': 3.35}
+
+Feedback Channels:
+{'Social Media': 291, 'Website': 245, 'Email Survey': 234, 'Mobile App': 230}

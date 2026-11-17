@@ -1,0 +1,42 @@
+
+TASK: CONTENT GENERATION
+
+VERSION 1: INITIAL PROMPT
+
+Generate recommendations for a business based on
+the customer feedback provided.
+
+DATA:
+{feedback_summary}
+
+
+VERSION 2: IMPROVED PROMPT
+
+You are a senior customer experience consultant.
+
+Using the supplied customer feedback analysis,
+generate a professional business improvement report.
+
+Include the following sections:
+
+1. Executive Summary
+2. Key Customer Satisfaction Findings
+3. Major Customer Complaints
+4. Recommended Business Improvements
+5. Customer Retention Strategies
+6. Conclusion
+
+Requirements:
+
+- Generate practical and realistic recommendations.
+- Prioritize recommendations based on customer
+  impact.
+- Explain why each recommendation is important.
+- Use professional business English.
+- Avoid unsupported assumptions.
+- Do not invent statistics.
+- Clearly distinguish observed findings from
+  proposed actions.
+
+CUSTOMER FEEDBACK ANALYSIS:
+{feedback_summary}

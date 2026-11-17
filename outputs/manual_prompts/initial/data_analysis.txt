@@ -1,0 +1,19 @@
+Analyse the following customer feedback dataset and
+provide useful insights about customer satisfaction.
+
+DATA:
+
+CUSTOMER FEEDBACK DATASET SUMMARY
+
+Total Reviews: 1000
+
+Average Customer Rating: 3.35/5
+
+Sentiment Distribution:
+{'Positive': 506, 'Negative': 276, 'Neutral': 218}
+
+Average Rating by Product Category:
+{'Beauty & Personal Care': 3.46, 'Books & Stationery': 3.31, 'Clothing': 3.19, 'Electronics': 3.44, 'Home & Kitchen': 3.35}
+
+Feedback Channels:
+{'Social Media': 291, 'Website': 245, 'Email Survey': 234, 'Mobile App': 230}

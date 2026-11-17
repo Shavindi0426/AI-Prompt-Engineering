@@ -1,0 +1,1001 @@
+review_id,review_date,product_category,product_name,rating,feedback_text,sentiment_label,feedback_channel
+R0001,2025-10-07,Electronics,Bluetooth speaker,3,The Bluetooth speaker is average for the price. Nothing especially good or bad.,Neutral,Website
+R0002,2025-10-15,Electronics,wireless headphones,3,The wireless headphones is okay. It meets the basic expectations.,Neutral,Mobile App
+R0003,2025-01-04,Books & Stationery,pen set,2,I contacted customer support several times but my issue is still unresolved.,Negative,Mobile App
+R0004,2025-02-17,Home & Kitchen,bed sheet set,3,The bed sheet set is average for the price. Nothing especially good or bad.,Neutral,Social Media
+R0005,2025-07-13,Home & Kitchen,bed sheet set,4,The bed sheet set was better than expected and arrived earlier than expected.,Positive,Website
+R0006,2025-04-27,Books & Stationery,planner,3,The packaging was acceptable and the item arrived without damage.,Neutral,Email Survey
+R0007,2025-03-25,Clothing,cotton shirt,2,The product description was misleading and did not match what I received.,Negative,Email Survey
+R0008,2025-07-14,Home & Kitchen,electric kettle,4,Great experience. The electric kettle works perfectly and the price was fair.,Positive,Email Survey
+R0009,2025-06-11,Books & Stationery,textbook,1,The item was poorly packaged and arrived with missing parts.,Negative,Social Media
+R0010,2025-11-26,Clothing,running shoes,5,Customer support helped me quickly with my question about the running shoes.,Positive,Social Media
+R0011,2025-07-24,Clothing,denim jeans,5,The packaging was secure and the denim jeans arrived in perfect condition.,Positive,Email Survey
+R0012,2025-03-23,Clothing,jacket,4,Really happy with the jacket. The quality is excellent.,Positive,Social Media
+R0013,2025-01-06,Beauty & Personal Care,skincare set,4,The packaging was acceptable and the item arrived without damage.,Neutral,Website
+R0014,2025-03-22,Books & Stationery,planner,3,"Customer support answered my question, but the response was quite standard.",Neutral,Social Media
+R0015,2025-11-08,Home & Kitchen,storage container,5,Really happy with the storage container. The quality is excellent.,Positive,Mobile App
+R0016,2025-06-07,Clothing,cotton shirt,5,"Easy ordering process, helpful updates, and excellent cotton shirt quality. However, the delivery updates could be better.",Positive,Mobile App
+R0017,2025-09-30,Books & Stationery,notebook,4,Really happy with the notebook. The quality is excellent.,Positive,Mobile App
+R0018,2025-04-19,Beauty & Personal Care,moisturizer,5,The packaging was secure and the moisturizer arrived in perfect condition.,Positive,Mobile App
+R0019,2025-02-02,Beauty & Personal Care,shampoo,1,I would not recommend this store because the service was very poor.,Negative,Email Survey
+R0020,2025-04-28,Books & Stationery,textbook,5,"Customer support helped me quickly with my question about the textbook. However, the delivery updates could be better.",Positive,Website
+R0021,2025-03-09,Home & Kitchen,electric kettle,1,I contacted customer support several times but my issue is still unresolved.,Negative,Social Media
+R0022,2025-08-05,Beauty & Personal Care,skincare set,5,Customer support helped me quickly with my question about the skincare set.,Positive,Social Media
+R0023,2025-02-25,Electronics,wireless headphones,5,The wireless headphones was better than expected and arrived on time.,Positive,Mobile App
+R0024,2025-02-08,Books & Stationery,pen set,5,Great experience. The pen set works perfectly and the price was fair.,Positive,Social Media
+R0025,2025-02-17,Books & Stationery,notebook,2,The notebook arrived damaged and I am very disappointed.,Negative,Mobile App
+R0026,2025-01-02,Beauty & Personal Care,skincare set,4,Customer support helped me quickly with my question about the skincare set.,Positive,Social Media
+R0027,2025-10-12,Beauty & Personal Care,shampoo,3,I would recommend this shampoo. It offers good value for money.,Positive,Social Media
+R0028,2025-06-10,Home & Kitchen,storage container,4,The storage container was better than expected and arrived earlier than expected.,Positive,Website
+R0029,2025-11-01,Beauty & Personal Care,moisturizer,4,The moisturizer was better than expected and arrived earlier than expected.,Positive,Website
+R0030,2025-11-14,Clothing,jacket,3,The jacket is okay. It meets the basic expectations.,Neutral,Website
+R0031,2025-05-16,Books & Stationery,planner,4,The packaging was secure and the planner arrived in perfect condition.,Positive,Social Media
+R0032,2025-10-16,Home & Kitchen,blender,5,"Easy ordering process, helpful updates, and excellent blender quality. However, the delivery updates could be better.",Positive,Website
+R0033,2025-07-09,Clothing,running shoes,5,Great experience. The running shoes works perfectly and the price was fair.,Positive,Email Survey
+R0034,2025-12-06,Books & Stationery,planner,4,The planner was better than expected and arrived earlier than expected.,Positive,Website
+R0035,2025-05-25,Clothing,running shoes,1,Delivery was much later than promised and nobody provided an update.,Negative,Mobile App
+R0036,2025-02-17,Clothing,running shoes,2,I would not recommend this store because the service was very poor.,Negative,Social Media
+R0037,2025-08-15,Electronics,wireless headphones,1,The item was poorly packaged and arrived with missing parts.,Negative,Social Media
+R0038,2025-10-26,Electronics,wireless headphones,2,I received what I ordered. The overall experience was ordinary.,Neutral,Mobile App
+R0039,2025-05-08,Electronics,Bluetooth speaker,4,"Easy ordering process, helpful updates, and excellent Bluetooth speaker quality.",Positive,Website
+R0040,2025-04-01,Books & Stationery,pen set,3,Great experience. The pen set works perfectly and the price was fair.,Positive,Social Media
+R0041,2025-07-15,Home & Kitchen,blender,5,Customer support helped me quickly with my question about the blender.,Positive,Website
+R0042,2025-04-27,Clothing,denim jeans,2,I would not recommend this store because the service was very poor.,Negative,Mobile App
+R0043,2025-05-23,Clothing,jacket,3,"Easy ordering process, helpful updates, and excellent jacket quality.",Positive,Email Survey
+R0044,2025-10-25,Beauty & Personal Care,shampoo,3,The shampoo is okay. It meets the basic expectations.,Neutral,Email Survey
+R0045,2025-09-19,Books & Stationery,pen set,5,"Easy ordering process, helpful updates, and excellent pen set quality.",Positive,Website
+R0046,2025-10-03,Books & Stationery,textbook,4,The packaging was secure and the textbook arrived in perfect condition.,Positive,Mobile App
+R0047,2025-06-03,Electronics,Bluetooth speaker,5,"Easy ordering process, helpful updates, and excellent Bluetooth speaker quality.",Positive,Email Survey
+R0048,2025-12-07,Home & Kitchen,blender,3,I received what I ordered. The overall experience was ordinary.,Neutral,Social Media
+R0049,2025-04-18,Clothing,running shoes,3,"The product is usable, although there is room for improvement.",Neutral,Social Media
+R0050,2025-08-31,Books & Stationery,planner,1,I would not recommend this store because the service was very poor.,Negative,Mobile App
+R0051,2025-04-12,Home & Kitchen,bed sheet set,3,The bed sheet set is okay. It meets the basic expectations.,Neutral,Mobile App
+R0052,2025-04-10,Clothing,jacket,5,Really happy with the jacket. The quality is excellent.,Positive,Social Media
+R0053,2025-02-24,Clothing,denim jeans,2,"I received what I ordered. The overall experience was ordinary. However, the delivery updates could be better.",Neutral,Social Media
+R0054,2025-08-22,Books & Stationery,pen set,5,The pen set was better than expected and arrived earlier than expected.,Positive,Mobile App
+R0055,2025-08-07,Books & Stationery,planner,2,I would not recommend this store because the service was very poor.,Negative,Social Media
+R0056,2025-09-24,Beauty & Personal Care,skincare set,1,The refund is taking too long and the process is frustrating.,Negative,Social Media
+R0057,2025-06-13,Home & Kitchen,blender,3,The blender is okay. It meets the basic expectations.,Neutral,Website
+R0058,2025-06-19,Clothing,jacket,5,Great experience. The jacket works perfectly and the price was fair.,Positive,Social Media
+R0059,2025-10-22,Clothing,jacket,4,I would recommend this jacket. It offers good value for money.,Positive,Social Media
+R0060,2025-11-05,Home & Kitchen,bed sheet set,5,I would recommend this bed sheet set. It offers good value for money.,Positive,Mobile App
+R0061,2025-07-27,Home & Kitchen,blender,3,"The product is usable, although there is room for improvement.",Neutral,Mobile App
+R0062,2025-11-26,Clothing,cotton shirt,1,The product description was misleading and did not match what I received.,Negative,Social Media
+R0063,2025-06-17,Beauty & Personal Care,moisturizer,4,The moisturizer was better than expected and arrived on time.,Positive,Email Survey
+R0064,2025-10-04,Beauty & Personal Care,shampoo,1,The product description was misleading and did not match what I received.,Negative,Website
+R0065,2025-05-07,Home & Kitchen,storage container,1,"Delivery was much later than promised and nobody provided an update. However, the delivery updates could be better.",Negative,Mobile App
+R0066,2025-04-22,Books & Stationery,textbook,1,I contacted customer support several times but my issue is still unresolved.,Negative,Social Media
+R0067,2025-03-25,Home & Kitchen,storage container,2,The packaging was acceptable and the item arrived without damage.,Neutral,Email Survey
+R0068,2025-10-31,Electronics,Bluetooth speaker,4,I would recommend this Bluetooth speaker. It offers good value for money.,Positive,Mobile App
+R0069,2025-02-05,Home & Kitchen,electric kettle,5,The electric kettle was better than expected and arrived on time.,Positive,Email Survey
+R0070,2025-08-24,Beauty & Personal Care,skincare set,5,Really happy with the skincare set. The quality is excellent.,Positive,Mobile App
+R0071,2025-05-18,Books & Stationery,planner,5,The return process was simple and the support team was very helpful.,Positive,Email Survey
+R0072,2025-12-09,Electronics,Bluetooth speaker,2,I would not recommend this store because the service was very poor.,Negative,Social Media
+R0073,2025-06-24,Beauty & Personal Care,shampoo,5,Great experience. The shampoo works perfectly and the price was fair.,Positive,Email Survey
+R0074,2025-10-12,Home & Kitchen,electric kettle,1,I contacted customer support several times but my issue is still unresolved.,Negative,Mobile App
+R0075,2025-12-21,Beauty & Personal Care,skincare set,3,"Customer support answered my question, but the response was quite standard.",Neutral,Mobile App
+R0076,2025-10-09,Books & Stationery,planner,5,The return process was simple and the support team was very helpful.,Positive,Email Survey
+R0077,2025-06-11,Beauty & Personal Care,shampoo,5,The packaging was secure and the shampoo arrived in perfect condition.,Positive,Website
+R0078,2025-09-26,Clothing,denim jeans,2,I contacted customer support several times but my issue is still unresolved.,Negative,Email Survey
+R0079,2025-10-01,Clothing,running shoes,1,I contacted customer support several times but my issue is still unresolved.,Negative,Mobile App
+R0080,2025-01-07,Electronics,Bluetooth speaker,5,Great experience. The Bluetooth speaker works perfectly and the price was fair.,Positive,Email Survey
+R0081,2025-02-28,Beauty & Personal Care,shampoo,5,Great experience. The shampoo works perfectly and the price was fair.,Positive,Website
+R0082,2025-02-13,Electronics,wireless headphones,5,Great experience. The wireless headphones works perfectly and the price was fair.,Positive,Mobile App
+R0083,2025-10-29,Beauty & Personal Care,moisturizer,4,I would recommend this moisturizer. It offers good value for money.,Positive,Social Media
+R0084,2025-02-11,Books & Stationery,notebook,4,Really happy with the notebook. The quality is excellent.,Positive,Mobile App
+R0085,2025-08-29,Books & Stationery,notebook,5,Great experience. The notebook works perfectly and the price was fair.,Positive,Email Survey
+R0086,2025-11-17,Home & Kitchen,bed sheet set,5,The return process was simple and the support team was very helpful.,Positive,Mobile App
+R0087,2025-03-26,Books & Stationery,textbook,4,Great experience. The textbook works perfectly and the price was fair.,Positive,Email Survey
+R0088,2025-07-26,Books & Stationery,planner,3,"The product is usable, although there is room for improvement.",Neutral,Email Survey
+R0089,2025-06-15,Beauty & Personal Care,skincare set,3,"The skincare set is okay. It meets the basic expectations. However, the delivery updates could be better.",Neutral,Email Survey
+R0090,2025-08-29,Clothing,cotton shirt,5,"The packaging was secure and the cotton shirt arrived in perfect condition. However, the delivery updates could be better.",Positive,Social Media
+R0091,2025-06-14,Clothing,jacket,1,I would not recommend this store because the service was very poor.,Negative,Website
+R0092,2025-10-09,Home & Kitchen,blender,1,I would not recommend this store because the service was very poor.,Negative,Website
+R0093,2025-09-21,Home & Kitchen,bed sheet set,5,"Easy ordering process, helpful updates, and excellent bed sheet set quality.",Positive,Website
+R0094,2025-09-13,Books & Stationery,pen set,3,"The product is usable, although there is room for improvement.",Neutral,Social Media
+R0095,2025-03-04,Clothing,running shoes,2,The running shoes stopped working after a short time. Poor quality.,Negative,Website
+R0096,2025-02-17,Books & Stationery,textbook,2,The textbook stopped working after a short time. Poor quality.,Negative,Mobile App
+R0097,2025-05-30,Electronics,mobile phone case,1,Delivery was much later than promised and nobody provided an update.,Negative,Email Survey
+R0098,2025-11-03,Beauty & Personal Care,skincare set,5,Customer support helped me quickly with my question about the skincare set.,Positive,Mobile App
+R0099,2025-06-02,Home & Kitchen,blender,1,The item was poorly packaged and arrived with missing parts.,Negative,Social Media
+R0100,2025-08-22,Beauty & Personal Care,skincare set,1,The item was poorly packaged and arrived with missing parts.,Negative,Email Survey
+R0101,2025-12-28,Clothing,jacket,2,"I contacted customer support several times but my issue is still unresolved. However, the delivery updates could be better.",Negative,Social Media
+R0102,2025-02-21,Clothing,jacket,5,The jacket was better than expected and arrived quickly.,Positive,Social Media
+R0103,2025-02-08,Beauty & Personal Care,face wash,3,Great experience. The face wash works perfectly and the price was fair.,Positive,Social Media
+R0104,2025-12-12,Home & Kitchen,bed sheet set,1,The product description was misleading and did not match what I received.,Negative,Social Media
+R0105,2025-04-27,Beauty & Personal Care,face wash,3,Delivery was much later than promised and nobody provided an update.,Negative,Website
+R0106,2025-01-24,Electronics,wireless headphones,5,The return process was simple and the support team was very helpful.,Positive,Email Survey
+R0107,2025-10-17,Home & Kitchen,bed sheet set,1,The item was poorly packaged and arrived with missing parts.,Negative,Mobile App
+R0108,2025-08-25,Electronics,mobile phone case,4,Customer support helped me quickly with my question about the mobile phone case.,Positive,Email Survey
+R0109,2025-06-26,Electronics,mobile phone case,4,The packaging was secure and the mobile phone case arrived in perfect condition.,Positive,Email Survey
+R0110,2025-09-05,Beauty & Personal Care,shampoo,3,"The product is usable, although there is room for improvement.",Neutral,Website
+R0111,2025-12-04,Books & Stationery,planner,3,The packaging was secure and the planner arrived in perfect condition.,Positive,Social Media
+R0112,2025-06-30,Books & Stationery,notebook,4,The return process was simple and the support team was very helpful.,Positive,Mobile App
+R0113,2025-03-12,Books & Stationery,planner,3,I received what I ordered. The overall experience was ordinary.,Neutral,Website
+R0114,2025-02-16,Electronics,Bluetooth speaker,2,I would not recommend this store because the service was very poor.,Negative,Email Survey
+R0115,2025-07-07,Beauty & Personal Care,moisturizer,5,Customer support helped me quickly with my question about the moisturizer.,Positive,Email Survey
+R0116,2025-08-28,Home & Kitchen,blender,2,The refund is taking too long and the process is frustrating.,Negative,Website
+R0117,2025-10-02,Clothing,jacket,4,"Easy ordering process, helpful updates, and excellent jacket quality.",Positive,Website
+R0118,2025-11-14,Home & Kitchen,blender,5,"Easy ordering process, helpful updates, and excellent blender quality.",Positive,Email Survey
+R0119,2025-03-13,Clothing,cotton shirt,1,I would not recommend this store because the service was very poor.,Negative,Website
+R0120,2025-07-18,Home & Kitchen,blender,1,Delivery was much later than promised and nobody provided an update.,Negative,Social Media
+R0121,2025-11-12,Books & Stationery,pen set,5,Great experience. The pen set works perfectly and the price was fair.,Positive,Social Media
+R0122,2025-07-05,Home & Kitchen,electric kettle,3,The item was poorly packaged and arrived with missing parts.,Negative,Website
+R0123,2025-08-21,Home & Kitchen,bed sheet set,3,The bed sheet set arrived damaged and I am very disappointed.,Negative,Website
+R0124,2025-10-17,Books & Stationery,notebook,3,The notebook is okay. It meets the basic expectations.,Neutral,Mobile App
+R0125,2025-11-02,Books & Stationery,textbook,4,Customer support helped me quickly with my question about the textbook.,Positive,Website
+R0126,2025-03-09,Clothing,denim jeans,5,The packaging was secure and the denim jeans arrived in perfect condition.,Positive,Website
+R0127,2025-08-04,Clothing,running shoes,4,The running shoes was better than expected and arrived quickly.,Positive,Website
+R0128,2025-04-24,Beauty & Personal Care,skincare set,1,The item was poorly packaged and arrived with missing parts.,Negative,Website
+R0129,2025-09-03,Books & Stationery,planner,1,I would not recommend this store because the service was very poor.,Negative,Social Media
+R0130,2025-03-17,Electronics,mobile phone case,4,The return process was simple and the support team was very helpful.,Positive,Website
+R0131,2025-11-06,Books & Stationery,planner,5,I would recommend this planner. It offers good value for money.,Positive,Social Media
+R0132,2025-08-21,Electronics,smart watch,5,I would recommend this smart watch. It offers good value for money.,Positive,Social Media
+R0133,2025-03-20,Electronics,Bluetooth speaker,5,I would recommend this Bluetooth speaker. It offers good value for money.,Positive,Social Media
+R0134,2025-03-08,Electronics,wireless headphones,5,I would recommend this wireless headphones. It offers good value for money.,Positive,Website
+R0135,2025-08-05,Books & Stationery,planner,4,I received what I ordered. The overall experience was ordinary.,Neutral,Website
+R0136,2025-12-03,Books & Stationery,planner,1,The item was poorly packaged and arrived with missing parts.,Negative,Social Media
+R0137,2025-08-08,Electronics,Bluetooth speaker,5,"Easy ordering process, helpful updates, and excellent Bluetooth speaker quality.",Positive,Website
+R0138,2025-06-23,Home & Kitchen,electric kettle,3,The electric kettle is average for the price. Nothing especially good or bad.,Neutral,Email Survey
+R0139,2025-02-16,Clothing,jacket,3,Really happy with the jacket. The quality is excellent.,Positive,Mobile App
+R0140,2025-10-18,Beauty & Personal Care,shampoo,4,Great experience. The shampoo works perfectly and the price was fair.,Positive,Website
+R0141,2025-08-06,Clothing,denim jeans,1,The denim jeans arrived damaged and I am very disappointed.,Negative,Social Media
+R0142,2025-05-26,Beauty & Personal Care,shampoo,3,The shampoo is average for the price. Nothing especially good or bad.,Neutral,Social Media
+R0143,2025-04-15,Home & Kitchen,electric kettle,3,The electric kettle is average for the price. Nothing especially good or bad.,Neutral,Email Survey
+R0144,2025-08-09,Clothing,running shoes,1,The refund is taking too long and the process is frustrating.,Negative,Mobile App
+R0145,2025-08-12,Books & Stationery,textbook,5,"Easy ordering process, helpful updates, and excellent textbook quality.",Positive,Website
+R0146,2025-05-29,Electronics,Bluetooth speaker,5,I would recommend this Bluetooth speaker. It offers good value for money.,Positive,Website
+R0147,2025-02-24,Home & Kitchen,storage container,4,The return process was simple and the support team was very helpful.,Positive,Mobile App
+R0148,2025-03-28,Beauty & Personal Care,face wash,4,I would recommend this face wash. It offers good value for money.,Positive,Website
+R0149,2025-11-27,Electronics,smart watch,4,"Customer support answered my question, but the response was quite standard.",Neutral,Mobile App
+R0150,2025-12-02,Clothing,running shoes,5,Customer support helped me quickly with my question about the running shoes.,Positive,Website
+R0151,2025-11-22,Beauty & Personal Care,skincare set,5,The return process was simple and the support team was very helpful.,Positive,Email Survey
+R0152,2025-05-21,Home & Kitchen,storage container,2,I would not recommend this store because the service was very poor.,Negative,Website
+R0153,2025-05-27,Electronics,Bluetooth speaker,5,"The return process was simple and the support team was very helpful. However, the delivery updates could be better.",Positive,Website
+R0154,2025-01-22,Electronics,mobile phone case,2,"The product is usable, although there is room for improvement.",Neutral,Social Media
+R0155,2025-02-01,Books & Stationery,textbook,1,The item was poorly packaged and arrived with missing parts.,Negative,Social Media
+R0156,2025-08-13,Home & Kitchen,electric kettle,5,Great experience. The electric kettle works perfectly and the price was fair.,Positive,Mobile App
+R0157,2025-11-20,Home & Kitchen,blender,4,I would recommend this blender. It offers good value for money.,Positive,Email Survey
+R0158,2025-11-05,Electronics,mobile phone case,5,The packaging was secure and the mobile phone case arrived in perfect condition.,Positive,Mobile App
+R0159,2025-07-20,Books & Stationery,textbook,5,"Easy ordering process, helpful updates, and excellent textbook quality.",Positive,Mobile App
+R0160,2025-03-07,Electronics,Bluetooth speaker,3,The packaging was acceptable and the item arrived without damage.,Neutral,Website
+R0161,2025-06-24,Beauty & Personal Care,shampoo,4,The shampoo is okay. It meets the basic expectations.,Neutral,Social Media
+R0162,2025-10-04,Clothing,denim jeans,4,Really happy with the denim jeans. The quality is excellent.,Positive,Website
+R0163,2025-12-21,Books & Stationery,textbook,3,The packaging was acceptable and the item arrived without damage.,Neutral,Mobile App
+R0164,2025-11-09,Electronics,mobile phone case,3,The item was poorly packaged and arrived with missing parts.,Negative,Email Survey
+R0165,2025-04-10,Beauty & Personal Care,moisturizer,2,I contacted customer support several times but my issue is still unresolved.,Negative,Email Survey
+R0166,2025-08-03,Books & Stationery,pen set,3,"The product is usable, although there is room for improvement.",Neutral,Mobile App
+R0167,2025-10-11,Books & Stationery,textbook,2,The refund is taking too long and the process is frustrating.,Negative,Website
+R0168,2025-09-20,Books & Stationery,notebook,1,The refund is taking too long and the process is frustrating.,Negative,Mobile App
+R0169,2025-07-22,Electronics,smart watch,1,I would not recommend this store because the service was very poor.,Negative,Email Survey
+R0170,2025-11-29,Electronics,Bluetooth speaker,4,Customer support helped me quickly with my question about the Bluetooth speaker.,Positive,Email Survey
+R0171,2025-12-28,Clothing,cotton shirt,1,The refund is taking too long and the process is frustrating.,Negative,Social Media
+R0172,2025-11-08,Electronics,wireless headphones,4,The wireless headphones was better than expected and arrived on time.,Positive,Social Media
+R0173,2025-11-15,Home & Kitchen,storage container,5,"The packaging was secure and the storage container arrived in perfect condition. However, the delivery updates could be better.",Positive,Social Media
+R0174,2025-11-11,Beauty & Personal Care,face wash,5,Customer support helped me quickly with my question about the face wash.,Positive,Email Survey
+R0175,2025-09-27,Beauty & Personal Care,moisturizer,4,Really happy with the moisturizer. The quality is excellent.,Positive,Website
+R0176,2025-02-04,Beauty & Personal Care,face wash,4,I would recommend this face wash. It offers good value for money.,Positive,Email Survey
+R0177,2025-11-26,Electronics,Bluetooth speaker,4,Great experience. The Bluetooth speaker works perfectly and the price was fair.,Positive,Mobile App
+R0178,2025-08-23,Beauty & Personal Care,skincare set,2,"The skincare set stopped working after a short time. Poor quality. However, the delivery updates could be better.",Negative,Website
+R0179,2025-10-06,Electronics,smart watch,5,The smart watch was better than expected and arrived on time.,Positive,Social Media
+R0180,2025-03-05,Clothing,running shoes,4,"Easy ordering process, helpful updates, and excellent running shoes quality.",Positive,Email Survey
+R0181,2025-09-12,Beauty & Personal Care,skincare set,5,I would recommend this skincare set. It offers good value for money.,Positive,Email Survey
+R0182,2025-04-03,Books & Stationery,planner,1,Delivery was much later than promised and nobody provided an update.,Negative,Email Survey
+R0183,2025-03-27,Electronics,Bluetooth speaker,5,The packaging was secure and the Bluetooth speaker arrived in perfect condition.,Positive,Social Media
+R0184,2025-01-30,Electronics,Bluetooth speaker,5,I would recommend this Bluetooth speaker. It offers good value for money.,Positive,Website
+R0185,2025-03-15,Beauty & Personal Care,shampoo,4,The packaging was acceptable and the item arrived without damage.,Neutral,Social Media
+R0186,2025-11-06,Electronics,smart watch,5,"Easy ordering process, helpful updates, and excellent smart watch quality.",Positive,Mobile App
+R0187,2025-07-23,Home & Kitchen,bed sheet set,3,"The product is usable, although there is room for improvement.",Neutral,Email Survey
+R0188,2025-10-15,Clothing,cotton shirt,3,The cotton shirt is okay. It meets the basic expectations.,Neutral,Website
+R0189,2025-09-09,Home & Kitchen,blender,5,Customer support helped me quickly with my question about the blender.,Positive,Mobile App
+R0190,2025-12-16,Electronics,mobile phone case,4,Great experience. The mobile phone case works perfectly and the price was fair.,Positive,Email Survey
+R0191,2025-11-23,Electronics,Bluetooth speaker,4,"Delivery took a little longer than expected, but the item arrived.",Neutral,Mobile App
+R0192,2025-09-10,Books & Stationery,textbook,1,Delivery was much later than promised and nobody provided an update.,Negative,Website
+R0193,2025-02-03,Books & Stationery,planner,5,The return process was simple and the support team was very helpful.,Positive,Email Survey
+R0194,2025-11-25,Beauty & Personal Care,skincare set,3,"I would recommend this skincare set. It offers good value for money. However, the delivery updates could be better.",Positive,Website
+R0195,2025-03-08,Books & Stationery,planner,4,Great experience. The planner works perfectly and the price was fair.,Positive,Social Media
+R0196,2025-12-30,Electronics,wireless headphones,3,The packaging was acceptable and the item arrived without damage.,Neutral,Mobile App
+R0197,2025-05-21,Books & Stationery,planner,3,Really happy with the planner. The quality is excellent.,Positive,Mobile App
+R0198,2025-03-20,Books & Stationery,notebook,4,The packaging was acceptable and the item arrived without damage.,Neutral,Mobile App
+R0199,2025-02-11,Books & Stationery,planner,4,"Customer support answered my question, but the response was quite standard. However, the delivery updates could be better.",Neutral,Website
+R0200,2025-09-12,Books & Stationery,planner,2,I contacted customer support several times but my issue is still unresolved.,Negative,Email Survey
+R0201,2025-12-19,Home & Kitchen,blender,3,The blender is average for the price. Nothing especially good or bad.,Neutral,Website
+R0202,2025-06-13,Beauty & Personal Care,skincare set,4,The return process was simple and the support team was very helpful.,Positive,Email Survey
+R0203,2025-08-19,Clothing,running shoes,1,Delivery was much later than promised and nobody provided an update.,Negative,Mobile App
+R0204,2025-03-23,Electronics,Bluetooth speaker,3,I would recommend this Bluetooth speaker. It offers good value for money.,Positive,Email Survey
+R0205,2025-06-07,Home & Kitchen,storage container,1,The storage container stopped working after a short time. Poor quality.,Negative,Social Media
+R0206,2025-05-25,Beauty & Personal Care,skincare set,4,Customer support helped me quickly with my question about the skincare set.,Positive,Social Media
+R0207,2025-05-16,Beauty & Personal Care,shampoo,3,The packaging was acceptable and the item arrived without damage.,Neutral,Email Survey
+R0208,2025-10-11,Home & Kitchen,electric kettle,1,The product description was misleading and did not match what I received.,Negative,Email Survey
+R0209,2025-02-19,Books & Stationery,pen set,4,The packaging was secure and the pen set arrived in perfect condition.,Positive,Social Media
+R0210,2025-01-21,Home & Kitchen,bed sheet set,5,Great experience. The bed sheet set works perfectly and the price was fair.,Positive,Website
+R0211,2025-06-17,Home & Kitchen,blender,5,The return process was simple and the support team was very helpful.,Positive,Email Survey
+R0212,2025-12-29,Books & Stationery,planner,5,"Easy ordering process, helpful updates, and excellent planner quality.",Positive,Email Survey
+R0213,2025-06-07,Electronics,Bluetooth speaker,5,"Easy ordering process, helpful updates, and excellent Bluetooth speaker quality.",Positive,Website
+R0214,2025-11-19,Home & Kitchen,storage container,3,I received what I ordered. The overall experience was ordinary.,Neutral,Social Media
+R0215,2025-03-19,Clothing,cotton shirt,4,"Really happy with the cotton shirt. The quality is excellent. However, the delivery updates could be better.",Positive,Social Media
+R0216,2025-09-23,Beauty & Personal Care,skincare set,2,"Customer support answered my question, but the response was quite standard.",Neutral,Mobile App
+R0217,2025-10-07,Beauty & Personal Care,skincare set,3,"Delivery took a little longer than expected, but the item arrived.",Neutral,Email Survey
+R0218,2025-06-02,Home & Kitchen,blender,3,The blender is average for the price. Nothing especially good or bad.,Neutral,Email Survey
+R0219,2025-05-21,Beauty & Personal Care,shampoo,3,I would not recommend this store because the service was very poor.,Negative,Email Survey
+R0220,2025-05-29,Books & Stationery,pen set,5,I would recommend this pen set. It offers good value for money.,Positive,Website
+R0221,2025-04-14,Electronics,Bluetooth speaker,5,The return process was simple and the support team was very helpful.,Positive,Email Survey
+R0222,2025-01-26,Home & Kitchen,storage container,1,Delivery was much later than promised and nobody provided an update.,Negative,Mobile App
+R0223,2025-03-12,Electronics,wireless headphones,3,"The product is usable, although there is room for improvement.",Neutral,Website
+R0224,2025-05-28,Clothing,jacket,2,I would not recommend this store because the service was very poor.,Negative,Email Survey
+R0225,2025-01-20,Electronics,wireless headphones,5,Customer support helped me quickly with my question about the wireless headphones.,Positive,Mobile App
+R0226,2025-05-29,Clothing,cotton shirt,5,I would recommend this cotton shirt. It offers good value for money.,Positive,Website
+R0227,2025-09-26,Books & Stationery,notebook,5,"Easy ordering process, helpful updates, and excellent notebook quality.",Positive,Social Media
+R0228,2025-08-23,Clothing,jacket,1,The refund is taking too long and the process is frustrating.,Negative,Email Survey
+R0229,2025-11-09,Electronics,Bluetooth speaker,1,The refund is taking too long and the process is frustrating.,Negative,Social Media
+R0230,2025-03-13,Books & Stationery,planner,1,Delivery was much later than promised and nobody provided an update.,Negative,Social Media
+R0231,2025-06-18,Clothing,cotton shirt,5,The packaging was secure and the cotton shirt arrived in perfect condition.,Positive,Email Survey
+R0232,2025-12-08,Books & Stationery,notebook,3,"Delivery took a little longer than expected, but the item arrived.",Neutral,Website
+R0233,2025-06-01,Clothing,jacket,5,The packaging was secure and the jacket arrived in perfect condition.,Positive,Email Survey
+R0234,2025-07-11,Clothing,denim jeans,4,"The product is usable, although there is room for improvement.",Neutral,Social Media
+R0235,2025-02-11,Beauty & Personal Care,moisturizer,2,I contacted customer support several times but my issue is still unresolved.,Negative,Social Media
+R0236,2025-09-16,Home & Kitchen,electric kettle,3,"The packaging was acceptable and the item arrived without damage. However, the delivery updates could be better.",Neutral,Mobile App
+R0237,2025-10-26,Clothing,denim jeans,3,"Delivery took a little longer than expected, but the item arrived.",Neutral,Social Media
+R0238,2025-10-16,Books & Stationery,pen set,5,The pen set was better than expected and arrived on time.,Positive,Website
+R0239,2025-10-24,Home & Kitchen,electric kettle,2,"The product is usable, although there is room for improvement.",Neutral,Website
+R0240,2025-05-27,Home & Kitchen,electric kettle,5,The electric kettle was better than expected and arrived quickly.,Positive,Social Media
+R0241,2025-07-13,Clothing,jacket,5,"Easy ordering process, helpful updates, and excellent jacket quality.",Positive,Social Media
+R0242,2025-09-28,Books & Stationery,textbook,5,"Easy ordering process, helpful updates, and excellent textbook quality.",Positive,Mobile App
+R0243,2025-08-06,Clothing,cotton shirt,2,The cotton shirt arrived damaged and I am very disappointed.,Negative,Social Media
+R0244,2025-02-27,Clothing,jacket,3,The item was poorly packaged and arrived with missing parts.,Negative,Website
+R0245,2025-08-17,Beauty & Personal Care,face wash,2,"I contacted customer support several times but my issue is still unresolved. However, the delivery updates could be better.",Negative,Website
+R0246,2025-01-29,Electronics,mobile phone case,5,The return process was simple and the support team was very helpful.,Positive,Mobile App
+R0247,2025-12-11,Home & Kitchen,storage container,3,"Customer support answered my question, but the response was quite standard.",Neutral,Email Survey
+R0248,2025-10-30,Clothing,denim jeans,5,I would recommend this denim jeans. It offers good value for money.,Positive,Mobile App
+R0249,2025-09-26,Beauty & Personal Care,skincare set,3,The skincare set is okay. It meets the basic expectations.,Neutral,Email Survey
+R0250,2025-05-04,Beauty & Personal Care,moisturizer,3,"Delivery took a little longer than expected, but the item arrived.",Neutral,Mobile App
+R0251,2025-09-29,Clothing,jacket,5,The jacket was better than expected and arrived earlier than expected.,Positive,Mobile App
+R0252,2025-07-09,Home & Kitchen,storage container,5,"Easy ordering process, helpful updates, and excellent storage container quality. However, the delivery updates could be better.",Positive,Website
+R0253,2025-02-07,Clothing,cotton shirt,3,"Delivery took a little longer than expected, but the item arrived.",Neutral,Mobile App
+R0254,2025-01-08,Books & Stationery,textbook,1,I would not recommend this store because the service was very poor.,Negative,Mobile App
+R0255,2025-05-03,Electronics,mobile phone case,1,I contacted customer support several times but my issue is still unresolved.,Negative,Email Survey
+R0256,2025-09-12,Beauty & Personal Care,skincare set,1,The item was poorly packaged and arrived with missing parts.,Negative,Social Media
+R0257,2025-04-24,Beauty & Personal Care,shampoo,4,Customer support helped me quickly with my question about the shampoo.,Positive,Mobile App
+R0258,2025-10-19,Books & Stationery,pen set,4,The packaging was secure and the pen set arrived in perfect condition.,Positive,Mobile App
+R0259,2025-09-09,Home & Kitchen,bed sheet set,3,"Customer support answered my question, but the response was quite standard.",Neutral,Social Media
+R0260,2025-10-05,Home & Kitchen,storage container,4,Great experience. The storage container works perfectly and the price was fair.,Positive,Website
+R0261,2025-04-29,Electronics,wireless headphones,2,"Customer support answered my question, but the response was quite standard.",Neutral,Website
+R0262,2025-11-12,Electronics,smart watch,2,"I would not recommend this store because the service was very poor. However, the delivery updates could be better.",Negative,Social Media
+R0263,2025-05-21,Electronics,wireless headphones,3,The packaging was acceptable and the item arrived without damage.,Neutral,Email Survey
+R0264,2025-11-14,Beauty & Personal Care,moisturizer,4,Really happy with the moisturizer. The quality is excellent.,Positive,Email Survey
+R0265,2025-05-05,Home & Kitchen,blender,1,Delivery was much later than promised and nobody provided an update.,Negative,Mobile App
+R0266,2025-01-29,Electronics,wireless headphones,5,Really happy with the wireless headphones. The quality is excellent.,Positive,Website
+R0267,2025-02-18,Electronics,mobile phone case,2,The product description was misleading and did not match what I received.,Negative,Website
+R0268,2025-05-24,Books & Stationery,pen set,5,The packaging was secure and the pen set arrived in perfect condition.,Positive,Website
+R0269,2025-07-23,Home & Kitchen,electric kettle,5,Customer support helped me quickly with my question about the electric kettle.,Positive,Website
+R0270,2025-03-13,Books & Stationery,textbook,4,I would recommend this textbook. It offers good value for money.,Positive,Website
+R0271,2025-11-06,Home & Kitchen,electric kettle,3,The electric kettle is okay. It meets the basic expectations.,Neutral,Social Media
+R0272,2025-07-12,Home & Kitchen,electric kettle,1,The refund is taking too long and the process is frustrating.,Negative,Social Media
+R0273,2025-02-07,Books & Stationery,pen set,4,Really happy with the pen set. The quality is excellent.,Positive,Website
+R0274,2025-06-07,Beauty & Personal Care,moisturizer,4,I would recommend this moisturizer. It offers good value for money.,Positive,Social Media
+R0275,2025-10-12,Home & Kitchen,electric kettle,5,Great experience. The electric kettle works perfectly and the price was fair.,Positive,Social Media
+R0276,2025-07-17,Electronics,Bluetooth speaker,4,Really happy with the Bluetooth speaker. The quality is excellent.,Positive,Website
+R0277,2025-03-28,Beauty & Personal Care,face wash,5,Customer support helped me quickly with my question about the face wash.,Positive,Mobile App
+R0278,2025-06-03,Home & Kitchen,blender,4,Great experience. The blender works perfectly and the price was fair.,Positive,Social Media
+R0279,2025-04-11,Home & Kitchen,bed sheet set,2,I contacted customer support several times but my issue is still unresolved.,Negative,Social Media
+R0280,2025-06-18,Home & Kitchen,electric kettle,5,I would recommend this electric kettle. It offers good value for money.,Positive,Social Media
+R0281,2025-09-03,Books & Stationery,textbook,5,The packaging was secure and the textbook arrived in perfect condition.,Positive,Email Survey
+R0282,2025-10-22,Beauty & Personal Care,shampoo,5,The packaging was secure and the shampoo arrived in perfect condition.,Positive,Mobile App
+R0283,2025-10-07,Home & Kitchen,blender,4,"Easy ordering process, helpful updates, and excellent blender quality.",Positive,Mobile App
+R0284,2025-05-30,Books & Stationery,notebook,3,I received what I ordered. The overall experience was ordinary.,Neutral,Website
+R0285,2025-03-20,Beauty & Personal Care,skincare set,1,The skincare set stopped working after a short time. Poor quality.,Negative,Social Media
+R0286,2025-12-21,Electronics,mobile phone case,1,I would not recommend this store because the service was very poor.,Negative,Social Media
+R0287,2025-11-28,Home & Kitchen,electric kettle,3,The electric kettle is okay. It meets the basic expectations.,Neutral,Website
+R0288,2025-04-24,Beauty & Personal Care,shampoo,3,"Customer support answered my question, but the response was quite standard.",Neutral,Mobile App
+R0289,2025-06-01,Beauty & Personal Care,skincare set,5,Great experience. The skincare set works perfectly and the price was fair.,Positive,Social Media
+R0290,2025-04-16,Electronics,wireless headphones,1,The wireless headphones stopped working after a short time. Poor quality.,Negative,Social Media
+R0291,2025-12-30,Electronics,mobile phone case,4,"The return process was simple and the support team was very helpful. However, the delivery updates could be better.",Positive,Website
+R0292,2025-03-23,Home & Kitchen,electric kettle,4,Great experience. The electric kettle works perfectly and the price was fair.,Positive,Email Survey
+R0293,2025-12-03,Beauty & Personal Care,moisturizer,3,"Customer support answered my question, but the response was quite standard.",Neutral,Social Media
+R0294,2025-04-20,Books & Stationery,textbook,4,The return process was simple and the support team was very helpful.,Positive,Mobile App
+R0295,2025-05-15,Electronics,wireless headphones,5,Great experience. The wireless headphones works perfectly and the price was fair.,Positive,Social Media
+R0296,2025-08-23,Home & Kitchen,blender,3,The packaging was acceptable and the item arrived without damage.,Neutral,Mobile App
+R0297,2025-04-04,Home & Kitchen,electric kettle,1,The electric kettle stopped working after a short time. Poor quality.,Negative,Email Survey
+R0298,2025-04-06,Books & Stationery,pen set,3,"The product is usable, although there is room for improvement.",Neutral,Social Media
+R0299,2025-08-19,Clothing,denim jeans,3,"The product is usable, although there is room for improvement.",Neutral,Website
+R0300,2025-09-16,Electronics,mobile phone case,3,The mobile phone case stopped working after a short time. Poor quality.,Negative,Social Media
+R0301,2025-04-23,Beauty & Personal Care,skincare set,5,The return process was simple and the support team was very helpful.,Positive,Email Survey
+R0302,2025-09-11,Clothing,running shoes,5,Great experience. The running shoes works perfectly and the price was fair.,Positive,Website
+R0303,2025-04-22,Home & Kitchen,bed sheet set,3,The packaging was acceptable and the item arrived without damage.,Neutral,Social Media
+R0304,2025-02-14,Clothing,running shoes,5,The running shoes was better than expected and arrived on time.,Positive,Social Media
+R0305,2025-12-30,Electronics,smart watch,1,I contacted customer support several times but my issue is still unresolved.,Negative,Social Media
+R0306,2025-11-02,Clothing,denim jeans,5,Customer support helped me quickly with my question about the denim jeans.,Positive,Mobile App
+R0307,2025-02-18,Home & Kitchen,bed sheet set,5,The packaging was secure and the bed sheet set arrived in perfect condition.,Positive,Mobile App
+R0308,2025-05-08,Beauty & Personal Care,face wash,2,The refund is taking too long and the process is frustrating.,Negative,Mobile App
+R0309,2025-08-01,Clothing,jacket,1,I would not recommend this store because the service was very poor.,Negative,Social Media
+R0310,2025-09-07,Electronics,mobile phone case,5,The packaging was secure and the mobile phone case arrived in perfect condition.,Positive,Email Survey
+R0311,2025-10-01,Electronics,mobile phone case,4,I received what I ordered. The overall experience was ordinary.,Neutral,Social Media
+R0312,2025-10-08,Beauty & Personal Care,moisturizer,4,The return process was simple and the support team was very helpful.,Positive,Mobile App
+R0313,2025-08-24,Beauty & Personal Care,shampoo,3,"I received what I ordered. The overall experience was ordinary. However, the delivery updates could be better.",Neutral,Website
+R0314,2025-12-19,Clothing,jacket,5,The return process was simple and the support team was very helpful.,Positive,Mobile App
+R0315,2025-07-10,Home & Kitchen,storage container,1,The refund is taking too long and the process is frustrating.,Negative,Mobile App
+R0316,2025-04-20,Home & Kitchen,storage container,4,I would recommend this storage container. It offers good value for money.,Positive,Social Media
+R0317,2025-03-03,Books & Stationery,textbook,4,"The return process was simple and the support team was very helpful. However, the delivery updates could be better.",Positive,Social Media
+R0318,2025-02-22,Beauty & Personal Care,face wash,2,The face wash is average for the price. Nothing especially good or bad.,Neutral,Email Survey
+R0319,2025-02-05,Home & Kitchen,storage container,5,I would recommend this storage container. It offers good value for money.,Positive,Website
+R0320,2025-07-30,Clothing,jacket,2,"Delivery took a little longer than expected, but the item arrived.",Neutral,Social Media
+R0321,2025-08-08,Electronics,wireless headphones,1,The wireless headphones stopped working after a short time. Poor quality.,Negative,Email Survey
+R0322,2025-11-08,Clothing,running shoes,2,Delivery was much later than promised and nobody provided an update.,Negative,Email Survey
+R0323,2025-07-20,Electronics,Bluetooth speaker,1,I contacted customer support several times but my issue is still unresolved.,Negative,Email Survey
+R0324,2025-02-06,Clothing,jacket,3,"The product is usable, although there is room for improvement.",Neutral,Website
+R0325,2025-03-30,Home & Kitchen,storage container,1,The product description was misleading and did not match what I received.,Negative,Social Media
+R0326,2025-01-31,Electronics,wireless headphones,1,Delivery was much later than promised and nobody provided an update.,Negative,Social Media
+R0327,2025-10-03,Books & Stationery,pen set,3,"The product is usable, although there is room for improvement.",Neutral,Mobile App
+R0328,2025-11-21,Home & Kitchen,electric kettle,5,Customer support helped me quickly with my question about the electric kettle.,Positive,Website
+R0329,2025-08-21,Beauty & Personal Care,moisturizer,5,The moisturizer was better than expected and arrived quickly.,Positive,Website
+R0330,2025-09-12,Clothing,cotton shirt,4,The cotton shirt was better than expected and arrived earlier than expected.,Positive,Email Survey
+R0331,2025-03-02,Home & Kitchen,storage container,4,"Delivery took a little longer than expected, but the item arrived.",Neutral,Website
+R0332,2025-02-09,Beauty & Personal Care,shampoo,5,Really happy with the shampoo. The quality is excellent.,Positive,Social Media
+R0333,2025-02-22,Home & Kitchen,electric kettle,4,The return process was simple and the support team was very helpful.,Positive,Website
+R0334,2025-07-16,Books & Stationery,notebook,5,The notebook was better than expected and arrived quickly.,Positive,Mobile App
+R0335,2025-06-13,Electronics,mobile phone case,5,Customer support helped me quickly with my question about the mobile phone case.,Positive,Email Survey
+R0336,2025-04-25,Books & Stationery,planner,1,Delivery was much later than promised and nobody provided an update.,Negative,Website
+R0337,2025-01-05,Electronics,mobile phone case,2,The refund is taking too long and the process is frustrating.,Negative,Email Survey
+R0338,2025-04-11,Books & Stationery,planner,3,Customer support helped me quickly with my question about the planner.,Positive,Mobile App
+R0339,2025-01-05,Beauty & Personal Care,face wash,5,Customer support helped me quickly with my question about the face wash.,Positive,Email Survey
+R0340,2025-09-09,Beauty & Personal Care,shampoo,4,Really happy with the shampoo. The quality is excellent.,Positive,Website
+R0341,2025-09-24,Clothing,running shoes,2,Delivery was much later than promised and nobody provided an update.,Negative,Social Media
+R0342,2025-07-21,Home & Kitchen,blender,1,Delivery was much later than promised and nobody provided an update.,Negative,Website
+R0343,2025-06-11,Electronics,mobile phone case,3,I received what I ordered. The overall experience was ordinary.,Neutral,Social Media
+R0344,2025-03-11,Home & Kitchen,bed sheet set,3,I would not recommend this store because the service was very poor.,Negative,Website
+R0345,2025-04-17,Clothing,jacket,5,The return process was simple and the support team was very helpful.,Positive,Social Media
+R0346,2025-12-27,Home & Kitchen,electric kettle,4,Really happy with the electric kettle. The quality is excellent.,Positive,Website
+R0347,2025-09-20,Home & Kitchen,storage container,5,Really happy with the storage container. The quality is excellent.,Positive,Website
+R0348,2025-10-09,Home & Kitchen,storage container,3,The storage container is okay. It meets the basic expectations.,Neutral,Mobile App
+R0349,2025-04-24,Electronics,smart watch,5,"Really happy with the smart watch. The quality is excellent. However, the delivery updates could be better.",Positive,Mobile App
+R0350,2025-02-08,Beauty & Personal Care,shampoo,5,Really happy with the shampoo. The quality is excellent.,Positive,Website
+R0351,2025-06-19,Clothing,jacket,2,The jacket stopped working after a short time. Poor quality.,Negative,Website
+R0352,2025-09-12,Beauty & Personal Care,face wash,5,Great experience. The face wash works perfectly and the price was fair.,Positive,Website
+R0353,2025-08-17,Beauty & Personal Care,moisturizer,4,"Easy ordering process, helpful updates, and excellent moisturizer quality.",Positive,Mobile App
+R0354,2025-02-01,Books & Stationery,textbook,5,The packaging was secure and the textbook arrived in perfect condition.,Positive,Website
+R0355,2025-11-19,Clothing,jacket,5,Customer support helped me quickly with my question about the jacket.,Positive,Website
+R0356,2025-07-18,Home & Kitchen,blender,1,I would not recommend this store because the service was very poor.,Negative,Email Survey
+R0357,2025-09-29,Home & Kitchen,storage container,3,"The storage container was better than expected and arrived on time. However, the delivery updates could be better.",Positive,Email Survey
+R0358,2025-01-29,Clothing,denim jeans,1,Delivery was much later than promised and nobody provided an update.,Negative,Mobile App
+R0359,2025-12-24,Beauty & Personal Care,shampoo,3,"Customer support answered my question, but the response was quite standard.",Neutral,Email Survey
+R0360,2025-09-10,Electronics,Bluetooth speaker,2,The Bluetooth speaker stopped working after a short time. Poor quality.,Negative,Email Survey
+R0361,2025-09-02,Electronics,wireless headphones,4,The wireless headphones was better than expected and arrived quickly.,Positive,Website
+R0362,2025-06-15,Books & Stationery,textbook,5,Great experience. The textbook works perfectly and the price was fair.,Positive,Website
+R0363,2025-07-11,Books & Stationery,textbook,3,Really happy with the textbook. The quality is excellent.,Positive,Social Media
+R0364,2025-08-12,Home & Kitchen,bed sheet set,2,"Delivery took a little longer than expected, but the item arrived.",Neutral,Social Media
+R0365,2025-06-07,Clothing,running shoes,3,The running shoes is average for the price. Nothing especially good or bad.,Neutral,Email Survey
+R0366,2025-11-10,Electronics,mobile phone case,5,The mobile phone case was better than expected and arrived quickly.,Positive,Mobile App
+R0367,2025-06-13,Electronics,mobile phone case,3,The mobile phone case is average for the price. Nothing especially good or bad.,Neutral,Mobile App
+R0368,2025-02-04,Electronics,Bluetooth speaker,3,"The product is usable, although there is room for improvement.",Neutral,Email Survey
+R0369,2025-03-27,Electronics,wireless headphones,5,The wireless headphones was better than expected and arrived on time.,Positive,Social Media
+R0370,2025-10-23,Beauty & Personal Care,shampoo,3,The packaging was acceptable and the item arrived without damage.,Neutral,Mobile App
+R0371,2025-02-07,Electronics,wireless headphones,3,The packaging was secure and the wireless headphones arrived in perfect condition.,Positive,Email Survey
+R0372,2025-06-23,Beauty & Personal Care,moisturizer,3,Really happy with the moisturizer. The quality is excellent.,Positive,Social Media
+R0373,2025-04-08,Beauty & Personal Care,moisturizer,1,"The product description was misleading and did not match what I received. However, the delivery updates could be better.",Negative,Social Media
+R0374,2025-07-21,Books & Stationery,planner,3,I received what I ordered. The overall experience was ordinary.,Neutral,Social Media
+R0375,2025-11-04,Home & Kitchen,electric kettle,5,I would recommend this electric kettle. It offers good value for money.,Positive,Social Media
+R0376,2025-03-01,Electronics,smart watch,4,Great experience. The smart watch works perfectly and the price was fair.,Positive,Email Survey
+R0377,2025-07-09,Beauty & Personal Care,skincare set,1,The refund is taking too long and the process is frustrating.,Negative,Social Media
+R0378,2025-05-18,Beauty & Personal Care,face wash,4,The packaging was secure and the face wash arrived in perfect condition.,Positive,Website
+R0379,2025-04-27,Electronics,wireless headphones,5,"Easy ordering process, helpful updates, and excellent wireless headphones quality.",Positive,Website
+R0380,2025-02-10,Books & Stationery,pen set,1,I would not recommend this store because the service was very poor.,Negative,Social Media
+R0381,2025-04-19,Electronics,smart watch,3,Delivery was much later than promised and nobody provided an update.,Negative,Mobile App
+R0382,2025-11-01,Beauty & Personal Care,face wash,5,I would recommend this face wash. It offers good value for money.,Positive,Email Survey
+R0383,2025-05-22,Electronics,wireless headphones,4,I would recommend this wireless headphones. It offers good value for money.,Positive,Social Media
+R0384,2025-10-26,Electronics,mobile phone case,2,Delivery was much later than promised and nobody provided an update.,Negative,Website
+R0385,2025-05-16,Books & Stationery,notebook,2,The refund is taking too long and the process is frustrating.,Negative,Social Media
+R0386,2025-11-08,Books & Stationery,pen set,3,The pen set is okay. It meets the basic expectations.,Neutral,Social Media
+R0387,2025-07-10,Home & Kitchen,storage container,4,The storage container was better than expected and arrived earlier than expected.,Positive,Website
+R0388,2025-04-27,Home & Kitchen,bed sheet set,5,The packaging was secure and the bed sheet set arrived in perfect condition.,Positive,Mobile App
+R0389,2025-04-07,Beauty & Personal Care,shampoo,5,The packaging was secure and the shampoo arrived in perfect condition.,Positive,Social Media
+R0390,2025-06-09,Beauty & Personal Care,skincare set,4,"Easy ordering process, helpful updates, and excellent skincare set quality.",Positive,Social Media
+R0391,2025-01-30,Books & Stationery,notebook,4,Great experience. The notebook works perfectly and the price was fair.,Positive,Mobile App
+R0392,2025-07-23,Electronics,Bluetooth speaker,5,Customer support helped me quickly with my question about the Bluetooth speaker.,Positive,Website
+R0393,2025-08-31,Clothing,running shoes,4,"The product is usable, although there is room for improvement.",Neutral,Email Survey
+R0394,2025-10-20,Home & Kitchen,electric kettle,4,The packaging was secure and the electric kettle arrived in perfect condition.,Positive,Mobile App
+R0395,2025-12-16,Clothing,denim jeans,1,The refund is taking too long and the process is frustrating.,Negative,Website
+R0396,2025-06-06,Clothing,denim jeans,5,The denim jeans was better than expected and arrived quickly.,Positive,Email Survey
+R0397,2025-09-24,Beauty & Personal Care,shampoo,4,The return process was simple and the support team was very helpful.,Positive,Social Media
+R0398,2025-12-17,Electronics,Bluetooth speaker,3,The packaging was acceptable and the item arrived without damage.,Neutral,Website
+R0399,2025-12-31,Home & Kitchen,bed sheet set,3,I received what I ordered. The overall experience was ordinary.,Neutral,Email Survey
+R0400,2025-03-13,Books & Stationery,textbook,4,The textbook was better than expected and arrived earlier than expected.,Positive,Website
+R0401,2025-12-29,Home & Kitchen,bed sheet set,3,"The product is usable, although there is room for improvement.",Neutral,Mobile App
+R0402,2025-12-03,Clothing,jacket,4,"Easy ordering process, helpful updates, and excellent jacket quality.",Positive,Mobile App
+R0403,2025-04-04,Beauty & Personal Care,moisturizer,5,The packaging was secure and the moisturizer arrived in perfect condition.,Positive,Email Survey
+R0404,2025-06-19,Clothing,running shoes,3,The running shoes is average for the price. Nothing especially good or bad.,Neutral,Email Survey
+R0405,2025-10-25,Home & Kitchen,blender,5,"Really happy with the blender. The quality is excellent. However, the delivery updates could be better.",Positive,Website
+R0406,2025-03-19,Clothing,cotton shirt,4,I would recommend this cotton shirt. It offers good value for money.,Positive,Mobile App
+R0407,2025-02-11,Home & Kitchen,blender,2,I would not recommend this store because the service was very poor.,Negative,Social Media
+R0408,2025-03-28,Clothing,running shoes,4,The running shoes was better than expected and arrived quickly.,Positive,Mobile App
+R0409,2025-09-02,Electronics,smart watch,3,The packaging was acceptable and the item arrived without damage.,Neutral,Social Media
+R0410,2025-09-29,Books & Stationery,textbook,5,"Easy ordering process, helpful updates, and excellent textbook quality.",Positive,Mobile App
+R0411,2025-02-22,Electronics,smart watch,4,Customer support helped me quickly with my question about the smart watch.,Positive,Social Media
+R0412,2025-09-24,Home & Kitchen,storage container,3,The storage container is okay. It meets the basic expectations.,Neutral,Email Survey
+R0413,2025-07-26,Clothing,running shoes,4,The return process was simple and the support team was very helpful.,Positive,Website
+R0414,2025-12-31,Clothing,denim jeans,4,The denim jeans was better than expected and arrived earlier than expected.,Positive,Website
+R0415,2025-01-25,Home & Kitchen,electric kettle,5,The electric kettle was better than expected and arrived earlier than expected.,Positive,Website
+R0416,2025-12-18,Beauty & Personal Care,face wash,4,The packaging was secure and the face wash arrived in perfect condition.,Positive,Website
+R0417,2025-11-13,Electronics,Bluetooth speaker,4,Great experience. The Bluetooth speaker works perfectly and the price was fair.,Positive,Website
+R0418,2025-09-25,Electronics,mobile phone case,4,Customer support helped me quickly with my question about the mobile phone case.,Positive,Mobile App
+R0419,2025-12-19,Beauty & Personal Care,shampoo,5,Great experience. The shampoo works perfectly and the price was fair.,Positive,Social Media
+R0420,2025-03-18,Electronics,wireless headphones,5,Really happy with the wireless headphones. The quality is excellent.,Positive,Website
+R0421,2025-06-01,Electronics,wireless headphones,3,The refund is taking too long and the process is frustrating.,Negative,Email Survey
+R0422,2025-08-07,Electronics,smart watch,5,The smart watch was better than expected and arrived on time.,Positive,Website
+R0423,2025-08-13,Electronics,wireless headphones,4,Great experience. The wireless headphones works perfectly and the price was fair.,Positive,Email Survey
+R0424,2025-08-22,Electronics,Bluetooth speaker,1,The item was poorly packaged and arrived with missing parts.,Negative,Email Survey
+R0425,2025-03-23,Beauty & Personal Care,skincare set,2,The skincare set stopped working after a short time. Poor quality.,Negative,Website
+R0426,2025-11-10,Books & Stationery,pen set,5,The return process was simple and the support team was very helpful.,Positive,Website
+R0427,2025-02-02,Clothing,jacket,1,I would not recommend this store because the service was very poor.,Negative,Email Survey
+R0428,2025-11-13,Electronics,smart watch,3,I received what I ordered. The overall experience was ordinary.,Neutral,Website
+R0429,2025-10-13,Clothing,jacket,5,"Easy ordering process, helpful updates, and excellent jacket quality.",Positive,Website
+R0430,2025-05-04,Clothing,jacket,5,"The return process was simple and the support team was very helpful. However, the delivery updates could be better.",Positive,Email Survey
+R0431,2025-08-16,Electronics,smart watch,1,The product description was misleading and did not match what I received.,Negative,Social Media
+R0432,2025-01-10,Beauty & Personal Care,skincare set,5,"Easy ordering process, helpful updates, and excellent skincare set quality.",Positive,Website
+R0433,2025-09-18,Electronics,wireless headphones,5,Really happy with the wireless headphones. The quality is excellent.,Positive,Mobile App
+R0434,2025-06-19,Beauty & Personal Care,shampoo,2,"Delivery took a little longer than expected, but the item arrived.",Neutral,Social Media
+R0435,2025-06-24,Home & Kitchen,blender,1,Delivery was much later than promised and nobody provided an update.,Negative,Email Survey
+R0436,2025-07-29,Home & Kitchen,bed sheet set,1,Delivery was much later than promised and nobody provided an update.,Negative,Website
+R0437,2025-04-08,Clothing,denim jeans,5,Really happy with the denim jeans. The quality is excellent.,Positive,Email Survey
+R0438,2025-09-16,Beauty & Personal Care,face wash,5,Really happy with the face wash. The quality is excellent.,Positive,Mobile App
+R0439,2025-04-01,Electronics,wireless headphones,1,The product description was misleading and did not match what I received.,Negative,Mobile App
+R0440,2025-09-16,Clothing,cotton shirt,2,The product description was misleading and did not match what I received.,Negative,Social Media
+R0441,2025-08-20,Books & Stationery,textbook,3,The packaging was secure and the textbook arrived in perfect condition.,Positive,Mobile App
+R0442,2025-04-22,Books & Stationery,planner,5,"Easy ordering process, helpful updates, and excellent planner quality.",Positive,Mobile App
+R0443,2025-09-15,Home & Kitchen,bed sheet set,3,Great experience. The bed sheet set works perfectly and the price was fair.,Positive,Email Survey
+R0444,2025-05-27,Home & Kitchen,blender,2,The product description was misleading and did not match what I received.,Negative,Social Media
+R0445,2025-04-13,Books & Stationery,notebook,2,The notebook arrived damaged and I am very disappointed.,Negative,Email Survey
+R0446,2025-06-01,Clothing,running shoes,2,The refund is taking too long and the process is frustrating.,Negative,Mobile App
+R0447,2025-10-15,Electronics,Bluetooth speaker,2,I would not recommend this store because the service was very poor.,Negative,Mobile App
+R0448,2025-05-28,Books & Stationery,pen set,2,I contacted customer support several times but my issue is still unresolved.,Negative,Website
+R0449,2025-04-14,Beauty & Personal Care,skincare set,2,"The item was poorly packaged and arrived with missing parts. However, the delivery updates could be better.",Negative,Social Media
+R0450,2025-02-08,Home & Kitchen,storage container,3,I contacted customer support several times but my issue is still unresolved.,Negative,Mobile App
+R0451,2025-03-08,Books & Stationery,notebook,2,The product description was misleading and did not match what I received.,Negative,Mobile App
+R0452,2025-03-20,Home & Kitchen,electric kettle,3,"Delivery took a little longer than expected, but the item arrived.",Neutral,Email Survey
+R0453,2025-12-29,Books & Stationery,planner,3,"The product is usable, although there is room for improvement.",Neutral,Email Survey
+R0454,2025-07-26,Clothing,cotton shirt,3,"Customer support answered my question, but the response was quite standard.",Neutral,Website
+R0455,2025-11-13,Clothing,running shoes,3,"Easy ordering process, helpful updates, and excellent running shoes quality.",Positive,Social Media
+R0456,2025-11-15,Electronics,wireless headphones,2,The item was poorly packaged and arrived with missing parts.,Negative,Mobile App
+R0457,2025-01-13,Home & Kitchen,blender,2,Delivery was much later than promised and nobody provided an update.,Negative,Email Survey
+R0458,2025-06-14,Books & Stationery,pen set,3,"The product is usable, although there is room for improvement.",Neutral,Website
+R0459,2025-12-17,Clothing,cotton shirt,2,Delivery was much later than promised and nobody provided an update.,Negative,Social Media
+R0460,2025-06-19,Clothing,jacket,1,Delivery was much later than promised and nobody provided an update.,Negative,Website
+R0461,2025-05-13,Electronics,smart watch,5,"The packaging was secure and the smart watch arrived in perfect condition. However, the delivery updates could be better.",Positive,Social Media
+R0462,2025-01-04,Beauty & Personal Care,skincare set,4,"Easy ordering process, helpful updates, and excellent skincare set quality.",Positive,Website
+R0463,2025-12-18,Books & Stationery,notebook,1,Delivery was much later than promised and nobody provided an update.,Negative,Email Survey
+R0464,2025-03-22,Home & Kitchen,blender,3,"The product is usable, although there is room for improvement.",Neutral,Mobile App
+R0465,2025-11-28,Beauty & Personal Care,shampoo,5,Great experience. The shampoo works perfectly and the price was fair.,Positive,Email Survey
+R0466,2025-10-03,Electronics,smart watch,2,"Delivery was much later than promised and nobody provided an update. However, the delivery updates could be better.",Negative,Website
+R0467,2025-04-05,Home & Kitchen,storage container,4,I would recommend this storage container. It offers good value for money.,Positive,Mobile App
+R0468,2025-01-28,Home & Kitchen,storage container,3,The storage container is okay. It meets the basic expectations.,Neutral,Social Media
+R0469,2025-10-25,Electronics,Bluetooth speaker,3,I received what I ordered. The overall experience was ordinary.,Neutral,Social Media
+R0470,2025-04-10,Home & Kitchen,storage container,1,I contacted customer support several times but my issue is still unresolved.,Negative,Email Survey
+R0471,2025-06-11,Home & Kitchen,bed sheet set,3,I received what I ordered. The overall experience was ordinary.,Neutral,Social Media
+R0472,2025-07-04,Home & Kitchen,storage container,5,Customer support helped me quickly with my question about the storage container.,Positive,Mobile App
+R0473,2025-10-10,Home & Kitchen,blender,3,"The product is usable, although there is room for improvement.",Neutral,Website
+R0474,2025-11-17,Books & Stationery,notebook,4,The packaging was secure and the notebook arrived in perfect condition.,Positive,Website
+R0475,2025-05-14,Electronics,wireless headphones,1,The product description was misleading and did not match what I received.,Negative,Social Media
+R0476,2025-05-29,Clothing,running shoes,3,"The product is usable, although there is room for improvement.",Neutral,Mobile App
+R0477,2025-11-11,Books & Stationery,notebook,5,I would recommend this notebook. It offers good value for money.,Positive,Mobile App
+R0478,2025-03-16,Clothing,jacket,2,The jacket stopped working after a short time. Poor quality.,Negative,Social Media
+R0479,2025-01-22,Electronics,smart watch,1,"I would not recommend this store because the service was very poor. However, the delivery updates could be better.",Negative,Mobile App
+R0480,2025-11-29,Home & Kitchen,blender,3,"The product is usable, although there is room for improvement.",Neutral,Email Survey
+R0481,2025-12-01,Books & Stationery,planner,4,The packaging was secure and the planner arrived in perfect condition.,Positive,Social Media
+R0482,2025-06-26,Electronics,Bluetooth speaker,5,I would recommend this Bluetooth speaker. It offers good value for money.,Positive,Social Media
+R0483,2025-11-26,Books & Stationery,notebook,1,The notebook stopped working after a short time. Poor quality.,Negative,Email Survey
+R0484,2025-04-28,Clothing,denim jeans,4,"Easy ordering process, helpful updates, and excellent denim jeans quality.",Positive,Social Media
+R0485,2025-07-30,Electronics,mobile phone case,1,I would not recommend this store because the service was very poor.,Negative,Website
+R0486,2025-03-17,Clothing,denim jeans,5,Great experience. The denim jeans works perfectly and the price was fair.,Positive,Website
+R0487,2025-02-13,Clothing,jacket,5,The jacket was better than expected and arrived earlier than expected.,Positive,Mobile App
+R0488,2025-10-26,Beauty & Personal Care,skincare set,5,Great experience. The skincare set works perfectly and the price was fair.,Positive,Mobile App
+R0489,2025-11-02,Books & Stationery,planner,4,The planner is average for the price. Nothing especially good or bad.,Neutral,Website
+R0490,2025-09-16,Beauty & Personal Care,moisturizer,5,Really happy with the moisturizer. The quality is excellent.,Positive,Social Media
+R0491,2025-09-30,Books & Stationery,notebook,2,The notebook stopped working after a short time. Poor quality.,Negative,Website
+R0492,2025-12-24,Clothing,cotton shirt,5,I would recommend this cotton shirt. It offers good value for money.,Positive,Social Media
+R0493,2025-12-23,Beauty & Personal Care,skincare set,5,"Easy ordering process, helpful updates, and excellent skincare set quality.",Positive,Website
+R0494,2025-07-29,Home & Kitchen,blender,5,Customer support helped me quickly with my question about the blender.,Positive,Email Survey
+R0495,2025-06-11,Electronics,wireless headphones,5,The wireless headphones was better than expected and arrived on time.,Positive,Social Media
+R0496,2025-07-07,Clothing,jacket,5,The packaging was secure and the jacket arrived in perfect condition.,Positive,Email Survey
+R0497,2025-07-09,Beauty & Personal Care,moisturizer,1,The product description was misleading and did not match what I received.,Negative,Social Media
+R0498,2025-03-02,Home & Kitchen,bed sheet set,5,I would recommend this bed sheet set. It offers good value for money.,Positive,Mobile App
+R0499,2025-10-09,Clothing,cotton shirt,4,Customer support helped me quickly with my question about the cotton shirt.,Positive,Website
+R0500,2025-02-02,Electronics,wireless headphones,5,Great experience. The wireless headphones works perfectly and the price was fair.,Positive,Email Survey
+R0501,2025-12-31,Electronics,wireless headphones,5,I would recommend this wireless headphones. It offers good value for money.,Positive,Website
+R0502,2025-09-23,Clothing,jacket,2,I would not recommend this store because the service was very poor.,Negative,Email Survey
+R0503,2025-01-01,Books & Stationery,textbook,4,"Great experience. The textbook works perfectly and the price was fair. However, the delivery updates could be better.",Positive,Mobile App
+R0504,2025-09-23,Home & Kitchen,blender,5,"Easy ordering process, helpful updates, and excellent blender quality.",Positive,Website
+R0505,2025-06-28,Electronics,wireless headphones,3,The refund is taking too long and the process is frustrating.,Negative,Email Survey
+R0506,2025-05-14,Home & Kitchen,storage container,2,I contacted customer support several times but my issue is still unresolved.,Negative,Mobile App
+R0507,2025-05-12,Electronics,wireless headphones,5,The packaging was secure and the wireless headphones arrived in perfect condition.,Positive,Email Survey
+R0508,2025-08-23,Beauty & Personal Care,skincare set,4,"Customer support answered my question, but the response was quite standard.",Neutral,Social Media
+R0509,2025-04-23,Electronics,mobile phone case,2,"Delivery was much later than promised and nobody provided an update. However, the delivery updates could be better.",Negative,Mobile App
+R0510,2025-02-17,Beauty & Personal Care,shampoo,1,The shampoo arrived damaged and I am very disappointed.,Negative,Social Media
+R0511,2025-10-21,Home & Kitchen,electric kettle,3,The packaging was acceptable and the item arrived without damage.,Neutral,Email Survey
+R0512,2025-04-16,Clothing,jacket,5,Customer support helped me quickly with my question about the jacket.,Positive,Mobile App
+R0513,2025-12-06,Clothing,running shoes,4,Great experience. The running shoes works perfectly and the price was fair.,Positive,Social Media
+R0514,2025-10-22,Books & Stationery,notebook,3,"Customer support answered my question, but the response was quite standard.",Neutral,Email Survey
+R0515,2025-09-27,Books & Stationery,planner,3,"The product is usable, although there is room for improvement.",Neutral,Social Media
+R0516,2025-08-23,Books & Stationery,notebook,5,"Easy ordering process, helpful updates, and excellent notebook quality.",Positive,Website
+R0517,2025-10-25,Beauty & Personal Care,shampoo,3,"I received what I ordered. The overall experience was ordinary. However, the delivery updates could be better.",Neutral,Website
+R0518,2025-11-10,Books & Stationery,planner,4,Great experience. The planner works perfectly and the price was fair.,Positive,Email Survey
+R0519,2025-07-25,Beauty & Personal Care,skincare set,5,Customer support helped me quickly with my question about the skincare set.,Positive,Email Survey
+R0520,2025-10-12,Books & Stationery,textbook,5,Customer support helped me quickly with my question about the textbook.,Positive,Social Media
+R0521,2025-09-13,Clothing,denim jeans,1,The denim jeans stopped working after a short time. Poor quality.,Negative,Mobile App
+R0522,2025-01-25,Books & Stationery,planner,2,I would not recommend this store because the service was very poor.,Negative,Social Media
+R0523,2025-08-19,Clothing,cotton shirt,5,Customer support helped me quickly with my question about the cotton shirt.,Positive,Email Survey
+R0524,2025-12-14,Home & Kitchen,bed sheet set,5,"Easy ordering process, helpful updates, and excellent bed sheet set quality.",Positive,Mobile App
+R0525,2025-09-07,Books & Stationery,textbook,3,"Customer support answered my question, but the response was quite standard.",Neutral,Social Media
+R0526,2025-11-24,Beauty & Personal Care,shampoo,2,I would not recommend this store because the service was very poor.,Negative,Email Survey
+R0527,2025-06-12,Books & Stationery,pen set,4,Really happy with the pen set. The quality is excellent.,Positive,Email Survey
+R0528,2025-10-28,Books & Stationery,pen set,3,The refund is taking too long and the process is frustrating.,Negative,Social Media
+R0529,2025-12-25,Clothing,cotton shirt,4,Great experience. The cotton shirt works perfectly and the price was fair.,Positive,Website
+R0530,2025-01-28,Beauty & Personal Care,face wash,5,Really happy with the face wash. The quality is excellent.,Positive,Website
+R0531,2025-07-19,Books & Stationery,notebook,1,Delivery was much later than promised and nobody provided an update.,Negative,Email Survey
+R0532,2025-01-18,Home & Kitchen,blender,4,Great experience. The blender works perfectly and the price was fair.,Positive,Email Survey
+R0533,2025-03-11,Home & Kitchen,blender,1,I would not recommend this store because the service was very poor.,Negative,Mobile App
+R0534,2025-06-27,Beauty & Personal Care,skincare set,3,The packaging was acceptable and the item arrived without damage.,Neutral,Social Media
+R0535,2025-01-06,Electronics,mobile phone case,3,"Delivery took a little longer than expected, but the item arrived.",Neutral,Website
+R0536,2025-09-09,Clothing,running shoes,3,"Delivery took a little longer than expected, but the item arrived.",Neutral,Social Media
+R0537,2025-10-15,Beauty & Personal Care,shampoo,4,Customer support helped me quickly with my question about the shampoo.,Positive,Social Media
+R0538,2025-05-03,Clothing,jacket,5,I would recommend this jacket. It offers good value for money.,Positive,Email Survey
+R0539,2025-05-29,Books & Stationery,planner,4,I would recommend this planner. It offers good value for money.,Positive,Website
+R0540,2025-01-10,Books & Stationery,pen set,3,"Delivery took a little longer than expected, but the item arrived.",Neutral,Mobile App
+R0541,2025-08-13,Books & Stationery,notebook,4,Great experience. The notebook works perfectly and the price was fair.,Positive,Website
+R0542,2025-09-13,Clothing,cotton shirt,4,The return process was simple and the support team was very helpful.,Positive,Email Survey
+R0543,2025-02-06,Electronics,Bluetooth speaker,5,"Really happy with the Bluetooth speaker. The quality is excellent. However, the delivery updates could be better.",Positive,Social Media
+R0544,2025-07-17,Home & Kitchen,blender,5,The blender was better than expected and arrived quickly.,Positive,Social Media
+R0545,2025-04-17,Electronics,smart watch,5,The return process was simple and the support team was very helpful.,Positive,Social Media
+R0546,2025-10-09,Home & Kitchen,bed sheet set,5,Great experience. The bed sheet set works perfectly and the price was fair.,Positive,Website
+R0547,2025-02-27,Home & Kitchen,storage container,4,"Easy ordering process, helpful updates, and excellent storage container quality.",Positive,Mobile App
+R0548,2025-05-05,Home & Kitchen,electric kettle,3,The electric kettle is average for the price. Nothing especially good or bad.,Neutral,Website
+R0549,2025-09-13,Books & Stationery,pen set,1,The pen set stopped working after a short time. Poor quality.,Negative,Website
+R0550,2025-02-24,Home & Kitchen,electric kettle,2,The electric kettle is okay. It meets the basic expectations.,Neutral,Mobile App
+R0551,2025-07-13,Home & Kitchen,bed sheet set,3,"Customer support answered my question, but the response was quite standard.",Neutral,Email Survey
+R0552,2025-12-23,Home & Kitchen,electric kettle,1,I would not recommend this store because the service was very poor.,Negative,Social Media
+R0553,2025-11-03,Clothing,running shoes,5,"Easy ordering process, helpful updates, and excellent running shoes quality.",Positive,Mobile App
+R0554,2025-11-23,Clothing,jacket,5,The packaging was secure and the jacket arrived in perfect condition.,Positive,Social Media
+R0555,2025-10-03,Electronics,Bluetooth speaker,2,I contacted customer support several times but my issue is still unresolved.,Negative,Social Media
+R0556,2025-02-19,Beauty & Personal Care,moisturizer,4,The packaging was secure and the moisturizer arrived in perfect condition.,Positive,Website
+R0557,2025-01-17,Clothing,denim jeans,4,The denim jeans was better than expected and arrived quickly.,Positive,Social Media
+R0558,2025-01-07,Books & Stationery,planner,2,The planner is okay. It meets the basic expectations.,Neutral,Mobile App
+R0559,2025-08-01,Electronics,mobile phone case,3,"Customer support answered my question, but the response was quite standard. However, the delivery updates could be better.",Neutral,Email Survey
+R0560,2025-04-21,Electronics,Bluetooth speaker,1,"The Bluetooth speaker arrived damaged and I am very disappointed. However, the delivery updates could be better.",Negative,Website
+R0561,2025-11-17,Clothing,jacket,4,Customer support helped me quickly with my question about the jacket.,Positive,Mobile App
+R0562,2025-12-12,Books & Stationery,pen set,3,I received what I ordered. The overall experience was ordinary.,Neutral,Social Media
+R0563,2025-12-03,Beauty & Personal Care,face wash,1,The face wash stopped working after a short time. Poor quality.,Negative,Mobile App
+R0564,2025-07-10,Books & Stationery,pen set,4,"Delivery took a little longer than expected, but the item arrived.",Neutral,Social Media
+R0565,2025-10-09,Beauty & Personal Care,shampoo,1,I contacted customer support several times but my issue is still unresolved.,Negative,Email Survey
+R0566,2025-11-02,Beauty & Personal Care,skincare set,3,I would recommend this skincare set. It offers good value for money.,Positive,Website
+R0567,2025-12-20,Home & Kitchen,electric kettle,3,"Delivery took a little longer than expected, but the item arrived.",Neutral,Email Survey
+R0568,2025-05-16,Books & Stationery,textbook,1,Delivery was much later than promised and nobody provided an update.,Negative,Email Survey
+R0569,2025-04-22,Clothing,denim jeans,1,The refund is taking too long and the process is frustrating.,Negative,Website
+R0570,2025-02-18,Beauty & Personal Care,moisturizer,2,I would not recommend this store because the service was very poor.,Negative,Email Survey
+R0571,2025-08-11,Books & Stationery,pen set,4,Really happy with the pen set. The quality is excellent.,Positive,Social Media
+R0572,2025-06-06,Electronics,smart watch,1,The smart watch arrived damaged and I am very disappointed.,Negative,Website
+R0573,2025-12-11,Books & Stationery,textbook,4,"Easy ordering process, helpful updates, and excellent textbook quality.",Positive,Social Media
+R0574,2025-03-09,Books & Stationery,notebook,1,I contacted customer support several times but my issue is still unresolved.,Negative,Email Survey
+R0575,2025-12-24,Books & Stationery,notebook,5,I would recommend this notebook. It offers good value for money.,Positive,Mobile App
+R0576,2025-11-12,Beauty & Personal Care,moisturizer,1,I would not recommend this store because the service was very poor.,Negative,Mobile App
+R0577,2025-12-10,Home & Kitchen,blender,4,"Easy ordering process, helpful updates, and excellent blender quality.",Positive,Social Media
+R0578,2025-06-06,Home & Kitchen,storage container,4,"Easy ordering process, helpful updates, and excellent storage container quality.",Positive,Mobile App
+R0579,2025-04-13,Books & Stationery,pen set,2,"The pen set stopped working after a short time. Poor quality. However, the delivery updates could be better.",Negative,Email Survey
+R0580,2025-05-28,Electronics,wireless headphones,5,The wireless headphones was better than expected and arrived quickly.,Positive,Website
+R0581,2025-10-03,Electronics,Bluetooth speaker,4,"The return process was simple and the support team was very helpful. However, the delivery updates could be better.",Positive,Mobile App
+R0582,2025-12-24,Books & Stationery,planner,4,The return process was simple and the support team was very helpful.,Positive,Website
+R0583,2025-12-23,Books & Stationery,notebook,4,"The packaging was secure and the notebook arrived in perfect condition. However, the delivery updates could be better.",Positive,Email Survey
+R0584,2025-12-04,Electronics,wireless headphones,5,I would recommend this wireless headphones. It offers good value for money.,Positive,Email Survey
+R0585,2025-12-30,Electronics,Bluetooth speaker,1,The product description was misleading and did not match what I received.,Negative,Website
+R0586,2025-12-31,Beauty & Personal Care,face wash,1,The face wash stopped working after a short time. Poor quality.,Negative,Website
+R0587,2025-06-27,Books & Stationery,planner,4,"Easy ordering process, helpful updates, and excellent planner quality.",Positive,Email Survey
+R0588,2025-01-16,Home & Kitchen,storage container,5,The packaging was secure and the storage container arrived in perfect condition.,Positive,Email Survey
+R0589,2025-12-14,Home & Kitchen,blender,5,Great experience. The blender works perfectly and the price was fair.,Positive,Mobile App
+R0590,2025-10-05,Books & Stationery,textbook,4,I would recommend this textbook. It offers good value for money.,Positive,Mobile App
+R0591,2025-03-11,Clothing,denim jeans,5,Great experience. The denim jeans works perfectly and the price was fair.,Positive,Social Media
+R0592,2025-03-02,Clothing,denim jeans,3,The item was poorly packaged and arrived with missing parts.,Negative,Mobile App
+R0593,2025-11-23,Clothing,cotton shirt,4,"Easy ordering process, helpful updates, and excellent cotton shirt quality.",Positive,Email Survey
+R0594,2025-11-12,Clothing,cotton shirt,3,"Great experience. The cotton shirt works perfectly and the price was fair. However, the delivery updates could be better.",Positive,Email Survey
+R0595,2025-02-10,Books & Stationery,textbook,3,The packaging was acceptable and the item arrived without damage.,Neutral,Social Media
+R0596,2025-03-12,Books & Stationery,pen set,5,"Easy ordering process, helpful updates, and excellent pen set quality.",Positive,Mobile App
+R0597,2025-12-10,Electronics,mobile phone case,4,The mobile phone case was better than expected and arrived on time.,Positive,Mobile App
+R0598,2025-08-23,Electronics,smart watch,1,I would not recommend this store because the service was very poor.,Negative,Mobile App
+R0599,2025-11-01,Electronics,mobile phone case,5,"Easy ordering process, helpful updates, and excellent mobile phone case quality.",Positive,Website
+R0600,2025-10-03,Beauty & Personal Care,skincare set,3,"Customer support answered my question, but the response was quite standard.",Neutral,Social Media
+R0601,2025-06-05,Electronics,mobile phone case,1,The mobile phone case arrived damaged and I am very disappointed.,Negative,Email Survey
+R0602,2025-11-27,Beauty & Personal Care,shampoo,4,The shampoo was better than expected and arrived earlier than expected.,Positive,Social Media
+R0603,2025-03-11,Books & Stationery,notebook,5,Great experience. The notebook works perfectly and the price was fair.,Positive,Social Media
+R0604,2025-04-14,Beauty & Personal Care,face wash,5,Great experience. The face wash works perfectly and the price was fair.,Positive,Social Media
+R0605,2025-07-05,Home & Kitchen,storage container,5,Really happy with the storage container. The quality is excellent.,Positive,Website
+R0606,2025-06-21,Beauty & Personal Care,moisturizer,2,"The product is usable, although there is room for improvement.",Neutral,Mobile App
+R0607,2025-08-17,Clothing,denim jeans,5,The denim jeans was better than expected and arrived on time.,Positive,Email Survey
+R0608,2025-08-23,Electronics,smart watch,3,The smart watch is average for the price. Nothing especially good or bad.,Neutral,Social Media
+R0609,2025-08-21,Books & Stationery,notebook,2,I would not recommend this store because the service was very poor.,Negative,Social Media
+R0610,2025-04-17,Books & Stationery,notebook,5,Customer support helped me quickly with my question about the notebook.,Positive,Website
+R0611,2025-11-05,Electronics,Bluetooth speaker,5,The Bluetooth speaker was better than expected and arrived quickly.,Positive,Email Survey
+R0612,2025-05-26,Electronics,wireless headphones,4,Really happy with the wireless headphones. The quality is excellent.,Positive,Mobile App
+R0613,2025-07-14,Books & Stationery,planner,1,The planner arrived damaged and I am very disappointed.,Negative,Website
+R0614,2025-05-21,Books & Stationery,notebook,2,The refund is taking too long and the process is frustrating.,Negative,Email Survey
+R0615,2025-11-19,Books & Stationery,textbook,3,I received what I ordered. The overall experience was ordinary.,Neutral,Website
+R0616,2025-10-22,Books & Stationery,planner,3,"The product is usable, although there is room for improvement.",Neutral,Email Survey
+R0617,2025-04-30,Books & Stationery,pen set,2,I would not recommend this store because the service was very poor.,Negative,Email Survey
+R0618,2025-04-17,Electronics,wireless headphones,1,The wireless headphones arrived damaged and I am very disappointed.,Negative,Social Media
+R0619,2025-05-11,Home & Kitchen,bed sheet set,5,Customer support helped me quickly with my question about the bed sheet set.,Positive,Website
+R0620,2025-10-19,Books & Stationery,planner,4,The planner was better than expected and arrived quickly.,Positive,Website
+R0621,2025-01-19,Clothing,running shoes,1,The item was poorly packaged and arrived with missing parts.,Negative,Mobile App
+R0622,2025-09-24,Beauty & Personal Care,shampoo,3,"The product is usable, although there is room for improvement.",Neutral,Email Survey
+R0623,2025-07-01,Home & Kitchen,electric kettle,2,The electric kettle is average for the price. Nothing especially good or bad.,Neutral,Website
+R0624,2025-10-20,Home & Kitchen,electric kettle,2,The item was poorly packaged and arrived with missing parts.,Negative,Social Media
+R0625,2025-09-12,Electronics,Bluetooth speaker,5,"Easy ordering process, helpful updates, and excellent Bluetooth speaker quality. However, the delivery updates could be better.",Positive,Mobile App
+R0626,2025-04-14,Home & Kitchen,storage container,5,The packaging was secure and the storage container arrived in perfect condition.,Positive,Website
+R0627,2025-09-26,Electronics,mobile phone case,5,Great experience. The mobile phone case works perfectly and the price was fair.,Positive,Email Survey
+R0628,2025-09-25,Clothing,cotton shirt,1,The cotton shirt stopped working after a short time. Poor quality.,Negative,Website
+R0629,2025-12-04,Electronics,wireless headphones,4,"Easy ordering process, helpful updates, and excellent wireless headphones quality.",Positive,Email Survey
+R0630,2025-06-13,Home & Kitchen,storage container,4,"Easy ordering process, helpful updates, and excellent storage container quality.",Positive,Social Media
+R0631,2025-10-14,Home & Kitchen,storage container,4,The storage container is average for the price. Nothing especially good or bad.,Neutral,Website
+R0632,2025-10-21,Home & Kitchen,bed sheet set,5,The packaging was secure and the bed sheet set arrived in perfect condition.,Positive,Mobile App
+R0633,2025-12-12,Home & Kitchen,bed sheet set,5,The return process was simple and the support team was very helpful.,Positive,Website
+R0634,2025-10-31,Electronics,wireless headphones,5,I would recommend this wireless headphones. It offers good value for money.,Positive,Social Media
+R0635,2025-10-01,Home & Kitchen,bed sheet set,3,"Customer support answered my question, but the response was quite standard.",Neutral,Website
+R0636,2025-12-17,Beauty & Personal Care,moisturizer,1,Delivery was much later than promised and nobody provided an update.,Negative,Social Media
+R0637,2025-12-07,Clothing,denim jeans,5,The packaging was secure and the denim jeans arrived in perfect condition.,Positive,Email Survey
+R0638,2025-09-03,Home & Kitchen,blender,1,"I would not recommend this store because the service was very poor. However, the delivery updates could be better.",Negative,Social Media
+R0639,2025-02-24,Home & Kitchen,bed sheet set,2,The bed sheet set stopped working after a short time. Poor quality.,Negative,Email Survey
+R0640,2025-11-14,Electronics,Bluetooth speaker,3,The packaging was acceptable and the item arrived without damage.,Neutral,Mobile App
+R0641,2025-08-09,Beauty & Personal Care,skincare set,3,The skincare set is okay. It meets the basic expectations.,Neutral,Social Media
+R0642,2025-12-31,Home & Kitchen,storage container,2,The storage container is average for the price. Nothing especially good or bad.,Neutral,Social Media
+R0643,2025-06-07,Books & Stationery,pen set,5,"Easy ordering process, helpful updates, and excellent pen set quality.",Positive,Social Media
+R0644,2025-04-22,Electronics,mobile phone case,4,"Easy ordering process, helpful updates, and excellent mobile phone case quality.",Positive,Mobile App
+R0645,2025-10-23,Electronics,smart watch,1,The smart watch stopped working after a short time. Poor quality.,Negative,Social Media
+R0646,2025-02-15,Home & Kitchen,bed sheet set,5,The packaging was secure and the bed sheet set arrived in perfect condition.,Positive,Website
+R0647,2025-10-09,Books & Stationery,pen set,3,"Customer support answered my question, but the response was quite standard.",Neutral,Website
+R0648,2025-12-26,Books & Stationery,planner,4,Really happy with the planner. The quality is excellent.,Positive,Social Media
+R0649,2025-09-01,Beauty & Personal Care,skincare set,3,"The product is usable, although there is room for improvement.",Neutral,Mobile App
+R0650,2025-03-06,Beauty & Personal Care,shampoo,5,I would recommend this shampoo. It offers good value for money.,Positive,Mobile App
+R0651,2025-02-13,Electronics,smart watch,3,The return process was simple and the support team was very helpful.,Positive,Mobile App
+R0652,2025-04-03,Beauty & Personal Care,skincare set,3,"Customer support answered my question, but the response was quite standard.",Neutral,Social Media
+R0653,2025-01-04,Books & Stationery,pen set,3,"The product is usable, although there is room for improvement.",Neutral,Social Media
+R0654,2025-01-20,Clothing,running shoes,1,The product description was misleading and did not match what I received.,Negative,Social Media
+R0655,2025-05-24,Electronics,mobile phone case,1,Delivery was much later than promised and nobody provided an update.,Negative,Social Media
+R0656,2025-12-09,Books & Stationery,notebook,3,The notebook is average for the price. Nothing especially good or bad.,Neutral,Website
+R0657,2025-01-06,Books & Stationery,planner,3,The packaging was acceptable and the item arrived without damage.,Neutral,Social Media
+R0658,2025-05-29,Beauty & Personal Care,shampoo,5,I would recommend this shampoo. It offers good value for money.,Positive,Mobile App
+R0659,2025-10-21,Books & Stationery,planner,5,The packaging was secure and the planner arrived in perfect condition.,Positive,Website
+R0660,2025-05-23,Home & Kitchen,electric kettle,3,"Delivery took a little longer than expected, but the item arrived.",Neutral,Email Survey
+R0661,2025-10-30,Home & Kitchen,bed sheet set,5,The packaging was secure and the bed sheet set arrived in perfect condition.,Positive,Mobile App
+R0662,2025-09-28,Home & Kitchen,storage container,3,"Delivery took a little longer than expected, but the item arrived.",Neutral,Website
+R0663,2025-07-16,Electronics,smart watch,5,Great experience. The smart watch works perfectly and the price was fair.,Positive,Mobile App
+R0664,2025-05-16,Clothing,denim jeans,3,The packaging was acceptable and the item arrived without damage.,Neutral,Website
+R0665,2025-09-30,Beauty & Personal Care,skincare set,5,The return process was simple and the support team was very helpful.,Positive,Mobile App
+R0666,2025-05-28,Beauty & Personal Care,skincare set,5,The packaging was secure and the skincare set arrived in perfect condition.,Positive,Social Media
+R0667,2025-08-10,Home & Kitchen,electric kettle,3,Really happy with the electric kettle. The quality is excellent.,Positive,Email Survey
+R0668,2025-12-12,Home & Kitchen,electric kettle,5,The packaging was secure and the electric kettle arrived in perfect condition.,Positive,Mobile App
+R0669,2025-10-08,Books & Stationery,textbook,1,The item was poorly packaged and arrived with missing parts.,Negative,Website
+R0670,2025-06-29,Electronics,wireless headphones,3,"The product is usable, although there is room for improvement.",Neutral,Mobile App
+R0671,2025-11-01,Home & Kitchen,storage container,1,The storage container arrived damaged and I am very disappointed.,Negative,Mobile App
+R0672,2025-11-28,Electronics,wireless headphones,2,Delivery was much later than promised and nobody provided an update.,Negative,Mobile App
+R0673,2025-08-21,Clothing,running shoes,1,The refund is taking too long and the process is frustrating.,Negative,Email Survey
+R0674,2025-07-18,Home & Kitchen,bed sheet set,1,The bed sheet set stopped working after a short time. Poor quality.,Negative,Email Survey
+R0675,2025-04-13,Home & Kitchen,bed sheet set,3,"The bed sheet set stopped working after a short time. Poor quality. However, the delivery updates could be better.",Negative,Social Media
+R0676,2025-11-26,Beauty & Personal Care,face wash,4,Great experience. The face wash works perfectly and the price was fair.,Positive,Website
+R0677,2025-08-17,Home & Kitchen,electric kettle,2,"The electric kettle arrived damaged and I am very disappointed. However, the delivery updates could be better.",Negative,Website
+R0678,2025-06-18,Clothing,cotton shirt,1,The cotton shirt arrived damaged and I am very disappointed.,Negative,Social Media
+R0679,2025-02-05,Books & Stationery,pen set,2,"The product is usable, although there is room for improvement.",Neutral,Mobile App
+R0680,2025-11-20,Beauty & Personal Care,face wash,5,"Easy ordering process, helpful updates, and excellent face wash quality.",Positive,Website
+R0681,2025-01-21,Home & Kitchen,electric kettle,4,The return process was simple and the support team was very helpful.,Positive,Social Media
+R0682,2025-11-20,Home & Kitchen,blender,3,The blender is okay. It meets the basic expectations.,Neutral,Social Media
+R0683,2025-09-08,Clothing,cotton shirt,2,I contacted customer support several times but my issue is still unresolved.,Negative,Social Media
+R0684,2025-01-09,Books & Stationery,planner,5,The return process was simple and the support team was very helpful.,Positive,Website
+R0685,2025-09-25,Home & Kitchen,electric kettle,5,I would recommend this electric kettle. It offers good value for money.,Positive,Social Media
+R0686,2025-12-01,Books & Stationery,textbook,1,"I contacted customer support several times but my issue is still unresolved. However, the delivery updates could be better.",Negative,Website
+R0687,2025-11-20,Books & Stationery,notebook,4,Customer support helped me quickly with my question about the notebook.,Positive,Website
+R0688,2025-02-28,Electronics,mobile phone case,2,"The mobile phone case stopped working after a short time. Poor quality. However, the delivery updates could be better.",Negative,Social Media
+R0689,2025-12-14,Books & Stationery,textbook,2,The textbook is okay. It meets the basic expectations.,Neutral,Social Media
+R0690,2025-06-21,Books & Stationery,textbook,5,"Easy ordering process, helpful updates, and excellent textbook quality.",Positive,Website
+R0691,2025-05-05,Clothing,jacket,4,Great experience. The jacket works perfectly and the price was fair.,Positive,Website
+R0692,2025-01-04,Books & Stationery,pen set,4,Great experience. The pen set works perfectly and the price was fair.,Positive,Mobile App
+R0693,2025-12-21,Books & Stationery,planner,2,The product description was misleading and did not match what I received.,Negative,Mobile App
+R0694,2025-01-20,Home & Kitchen,blender,5,I would recommend this blender. It offers good value for money.,Positive,Mobile App
+R0695,2025-04-09,Books & Stationery,notebook,2,The refund is taking too long and the process is frustrating.,Negative,Website
+R0696,2025-05-22,Electronics,Bluetooth speaker,2,I contacted customer support several times but my issue is still unresolved.,Negative,Website
+R0697,2025-01-28,Clothing,jacket,5,The return process was simple and the support team was very helpful.,Positive,Email Survey
+R0698,2025-01-23,Beauty & Personal Care,shampoo,5,"Easy ordering process, helpful updates, and excellent shampoo quality.",Positive,Website
+R0699,2025-05-01,Books & Stationery,textbook,1,The textbook stopped working after a short time. Poor quality.,Negative,Social Media
+R0700,2025-02-26,Home & Kitchen,blender,3,The blender is average for the price. Nothing especially good or bad.,Neutral,Email Survey
+R0701,2025-10-27,Clothing,jacket,4,Customer support helped me quickly with my question about the jacket.,Positive,Social Media
+R0702,2025-03-11,Beauty & Personal Care,moisturizer,5,Customer support helped me quickly with my question about the moisturizer.,Positive,Social Media
+R0703,2025-01-31,Home & Kitchen,bed sheet set,2,I contacted customer support several times but my issue is still unresolved.,Negative,Email Survey
+R0704,2025-06-01,Beauty & Personal Care,skincare set,4,I would recommend this skincare set. It offers good value for money.,Positive,Mobile App
+R0705,2025-04-21,Books & Stationery,textbook,1,I contacted customer support several times but my issue is still unresolved.,Negative,Social Media
+R0706,2025-08-11,Home & Kitchen,electric kettle,1,The product description was misleading and did not match what I received.,Negative,Mobile App
+R0707,2025-08-29,Books & Stationery,textbook,1,The textbook arrived damaged and I am very disappointed.,Negative,Website
+R0708,2025-01-07,Beauty & Personal Care,skincare set,4,Really happy with the skincare set. The quality is excellent.,Positive,Social Media
+R0709,2025-09-03,Clothing,running shoes,1,The refund is taking too long and the process is frustrating.,Negative,Email Survey
+R0710,2025-07-27,Beauty & Personal Care,face wash,5,The return process was simple and the support team was very helpful.,Positive,Mobile App
+R0711,2025-06-20,Home & Kitchen,blender,2,"The blender arrived damaged and I am very disappointed. However, the delivery updates could be better.",Negative,Website
+R0712,2025-01-29,Home & Kitchen,storage container,5,Really happy with the storage container. The quality is excellent.,Positive,Email Survey
+R0713,2025-03-31,Electronics,mobile phone case,1,The item was poorly packaged and arrived with missing parts.,Negative,Website
+R0714,2025-10-25,Clothing,denim jeans,3,"Delivery took a little longer than expected, but the item arrived.",Neutral,Mobile App
+R0715,2025-01-28,Clothing,running shoes,1,The item was poorly packaged and arrived with missing parts.,Negative,Website
+R0716,2025-09-30,Beauty & Personal Care,skincare set,5,Really happy with the skincare set. The quality is excellent.,Positive,Email Survey
+R0717,2025-04-02,Home & Kitchen,electric kettle,5,Customer support helped me quickly with my question about the electric kettle.,Positive,Email Survey
+R0718,2025-03-19,Electronics,wireless headphones,1,The wireless headphones stopped working after a short time. Poor quality.,Negative,Mobile App
+R0719,2025-06-27,Electronics,Bluetooth speaker,3,"The product is usable, although there is room for improvement.",Neutral,Social Media
+R0720,2025-09-24,Electronics,Bluetooth speaker,5,"Customer support helped me quickly with my question about the Bluetooth speaker. However, the delivery updates could be better.",Positive,Email Survey
+R0721,2025-10-08,Home & Kitchen,bed sheet set,5,The return process was simple and the support team was very helpful.,Positive,Social Media
+R0722,2025-07-10,Books & Stationery,textbook,4,The packaging was secure and the textbook arrived in perfect condition.,Positive,Email Survey
+R0723,2025-03-24,Electronics,smart watch,1,The item was poorly packaged and arrived with missing parts.,Negative,Email Survey
+R0724,2025-10-22,Clothing,denim jeans,3,Great experience. The denim jeans works perfectly and the price was fair.,Positive,Mobile App
+R0725,2025-06-26,Home & Kitchen,storage container,5,Customer support helped me quickly with my question about the storage container.,Positive,Mobile App
+R0726,2025-09-13,Books & Stationery,textbook,5,The packaging was secure and the textbook arrived in perfect condition.,Positive,Mobile App
+R0727,2025-11-28,Home & Kitchen,storage container,1,The storage container arrived damaged and I am very disappointed.,Negative,Email Survey
+R0728,2025-01-21,Home & Kitchen,storage container,5,The return process was simple and the support team was very helpful.,Positive,Mobile App
+R0729,2025-07-02,Electronics,Bluetooth speaker,3,The Bluetooth speaker is okay. It meets the basic expectations.,Neutral,Website
+R0730,2025-08-17,Books & Stationery,textbook,4,Customer support helped me quickly with my question about the textbook.,Positive,Website
+R0731,2025-01-29,Beauty & Personal Care,moisturizer,1,I would not recommend this store because the service was very poor.,Negative,Email Survey
+R0732,2025-06-07,Beauty & Personal Care,shampoo,4,"I would recommend this shampoo. It offers good value for money. However, the delivery updates could be better.",Positive,Social Media
+R0733,2025-05-28,Electronics,smart watch,2,I would not recommend this store because the service was very poor.,Negative,Mobile App
+R0734,2025-06-05,Beauty & Personal Care,skincare set,1,The skincare set stopped working after a short time. Poor quality.,Negative,Social Media
+R0735,2025-07-29,Books & Stationery,planner,1,Delivery was much later than promised and nobody provided an update.,Negative,Email Survey
+R0736,2025-10-11,Books & Stationery,pen set,5,Great experience. The pen set works perfectly and the price was fair.,Positive,Social Media
+R0737,2025-01-02,Home & Kitchen,bed sheet set,4,The return process was simple and the support team was very helpful.,Positive,Mobile App
+R0738,2025-11-27,Beauty & Personal Care,face wash,5,The packaging was secure and the face wash arrived in perfect condition.,Positive,Mobile App
+R0739,2025-10-17,Home & Kitchen,blender,5,Really happy with the blender. The quality is excellent.,Positive,Social Media
+R0740,2025-05-13,Beauty & Personal Care,face wash,1,The item was poorly packaged and arrived with missing parts.,Negative,Mobile App
+R0741,2025-05-20,Clothing,running shoes,3,"The product is usable, although there is room for improvement.",Neutral,Email Survey
+R0742,2025-09-21,Home & Kitchen,electric kettle,5,The packaging was secure and the electric kettle arrived in perfect condition.,Positive,Mobile App
+R0743,2025-12-17,Clothing,cotton shirt,1,The cotton shirt stopped working after a short time. Poor quality.,Negative,Email Survey
+R0744,2025-07-10,Home & Kitchen,electric kettle,5,"Easy ordering process, helpful updates, and excellent electric kettle quality. However, the delivery updates could be better.",Positive,Social Media
+R0745,2025-10-14,Clothing,cotton shirt,5,Customer support helped me quickly with my question about the cotton shirt.,Positive,Website
+R0746,2025-07-05,Electronics,wireless headphones,4,Great experience. The wireless headphones works perfectly and the price was fair.,Positive,Mobile App
+R0747,2025-03-02,Books & Stationery,planner,2,The planner stopped working after a short time. Poor quality.,Negative,Mobile App
+R0748,2025-08-06,Clothing,denim jeans,3,The packaging was secure and the denim jeans arrived in perfect condition.,Positive,Website
+R0749,2025-09-20,Beauty & Personal Care,skincare set,5,The skincare set was better than expected and arrived quickly.,Positive,Website
+R0750,2025-03-05,Home & Kitchen,electric kettle,5,Really happy with the electric kettle. The quality is excellent.,Positive,Mobile App
+R0751,2025-05-23,Clothing,denim jeans,3,"I received what I ordered. The overall experience was ordinary. However, the delivery updates could be better.",Neutral,Email Survey
+R0752,2025-09-28,Books & Stationery,textbook,5,Really happy with the textbook. The quality is excellent.,Positive,Mobile App
+R0753,2025-09-16,Home & Kitchen,storage container,1,The storage container arrived damaged and I am very disappointed.,Negative,Social Media
+R0754,2025-07-01,Books & Stationery,textbook,4,The return process was simple and the support team was very helpful.,Positive,Social Media
+R0755,2025-08-27,Books & Stationery,textbook,4,I would recommend this textbook. It offers good value for money.,Positive,Website
+R0756,2025-06-17,Beauty & Personal Care,shampoo,3,I received what I ordered. The overall experience was ordinary.,Neutral,Social Media
+R0757,2025-10-11,Home & Kitchen,blender,5,The packaging was secure and the blender arrived in perfect condition.,Positive,Social Media
+R0758,2025-01-07,Beauty & Personal Care,moisturizer,5,Really happy with the moisturizer. The quality is excellent.,Positive,Social Media
+R0759,2025-07-22,Beauty & Personal Care,skincare set,3,The packaging was acceptable and the item arrived without damage.,Neutral,Social Media
+R0760,2025-11-01,Electronics,smart watch,3,The smart watch is okay. It meets the basic expectations.,Neutral,Social Media
+R0761,2025-11-26,Beauty & Personal Care,skincare set,5,The packaging was secure and the skincare set arrived in perfect condition.,Positive,Social Media
+R0762,2025-02-25,Books & Stationery,pen set,5,The return process was simple and the support team was very helpful.,Positive,Website
+R0763,2025-02-04,Beauty & Personal Care,moisturizer,4,Great experience. The moisturizer works perfectly and the price was fair.,Positive,Social Media
+R0764,2025-11-16,Clothing,jacket,3,The packaging was acceptable and the item arrived without damage.,Neutral,Website
+R0765,2025-09-16,Books & Stationery,pen set,1,I would not recommend this store because the service was very poor.,Negative,Email Survey
+R0766,2025-03-02,Books & Stationery,notebook,4,"Customer support answered my question, but the response was quite standard.",Neutral,Social Media
+R0767,2025-06-05,Beauty & Personal Care,skincare set,5,"The return process was simple and the support team was very helpful. However, the delivery updates could be better.",Positive,Mobile App
+R0768,2025-12-12,Clothing,running shoes,3,I received what I ordered. The overall experience was ordinary.,Neutral,Social Media
+R0769,2025-07-20,Books & Stationery,pen set,3,"The product is usable, although there is room for improvement.",Neutral,Email Survey
+R0770,2025-01-24,Beauty & Personal Care,shampoo,3,"Customer support answered my question, but the response was quite standard.",Neutral,Mobile App
+R0771,2025-07-02,Home & Kitchen,electric kettle,1,The item was poorly packaged and arrived with missing parts.,Negative,Social Media
+R0772,2025-12-19,Clothing,denim jeans,4,Customer support helped me quickly with my question about the denim jeans.,Positive,Website
+R0773,2025-12-03,Electronics,Bluetooth speaker,1,The Bluetooth speaker stopped working after a short time. Poor quality.,Negative,Social Media
+R0774,2025-06-12,Beauty & Personal Care,shampoo,3,The shampoo is okay. It meets the basic expectations.,Neutral,Social Media
+R0775,2025-06-22,Home & Kitchen,electric kettle,3,"Customer support answered my question, but the response was quite standard.",Neutral,Social Media
+R0776,2025-09-12,Home & Kitchen,storage container,3,The packaging was acceptable and the item arrived without damage.,Neutral,Website
+R0777,2025-07-25,Books & Stationery,textbook,3,"The refund is taking too long and the process is frustrating. However, the delivery updates could be better.",Negative,Mobile App
+R0778,2025-09-29,Electronics,wireless headphones,3,The packaging was acceptable and the item arrived without damage.,Neutral,Social Media
+R0779,2025-10-04,Home & Kitchen,electric kettle,5,The packaging was secure and the electric kettle arrived in perfect condition.,Positive,Email Survey
+R0780,2025-01-10,Beauty & Personal Care,shampoo,4,The return process was simple and the support team was very helpful.,Positive,Mobile App
+R0781,2025-08-11,Clothing,jacket,3,"Delivery took a little longer than expected, but the item arrived.",Neutral,Website
+R0782,2025-06-03,Home & Kitchen,blender,3,The blender is average for the price. Nothing especially good or bad.,Neutral,Social Media
+R0783,2025-05-12,Electronics,smart watch,5,I would recommend this smart watch. It offers good value for money.,Positive,Mobile App
+R0784,2025-08-26,Electronics,smart watch,5,Customer support helped me quickly with my question about the smart watch.,Positive,Social Media
+R0785,2025-01-15,Beauty & Personal Care,skincare set,3,I received what I ordered. The overall experience was ordinary.,Neutral,Email Survey
+R0786,2025-02-12,Home & Kitchen,storage container,1,The storage container arrived damaged and I am very disappointed.,Negative,Email Survey
+R0787,2025-03-13,Electronics,mobile phone case,3,"Delivery took a little longer than expected, but the item arrived.",Neutral,Mobile App
+R0788,2025-03-04,Books & Stationery,notebook,4,The packaging was secure and the notebook arrived in perfect condition.,Positive,Email Survey
+R0789,2025-04-20,Books & Stationery,pen set,4,Customer support helped me quickly with my question about the pen set.,Positive,Email Survey
+R0790,2025-06-12,Home & Kitchen,electric kettle,5,The return process was simple and the support team was very helpful.,Positive,Social Media
+R0791,2025-06-07,Clothing,running shoes,5,Great experience. The running shoes works perfectly and the price was fair.,Positive,Website
+R0792,2025-12-20,Books & Stationery,notebook,4,"Customer support answered my question, but the response was quite standard.",Neutral,Mobile App
+R0793,2025-08-15,Beauty & Personal Care,shampoo,5,"Easy ordering process, helpful updates, and excellent shampoo quality.",Positive,Social Media
+R0794,2025-06-02,Beauty & Personal Care,shampoo,5,The packaging was secure and the shampoo arrived in perfect condition.,Positive,Mobile App
+R0795,2025-02-11,Clothing,jacket,1,The item was poorly packaged and arrived with missing parts.,Negative,Social Media
+R0796,2025-09-17,Beauty & Personal Care,shampoo,5,I would recommend this shampoo. It offers good value for money.,Positive,Website
+R0797,2025-11-25,Books & Stationery,planner,4,"The return process was simple and the support team was very helpful. However, the delivery updates could be better.",Positive,Mobile App
+R0798,2025-02-12,Clothing,cotton shirt,3,"The product is usable, although there is room for improvement.",Neutral,Website
+R0799,2025-03-10,Books & Stationery,textbook,5,I would recommend this textbook. It offers good value for money.,Positive,Email Survey
+R0800,2025-07-21,Books & Stationery,planner,5,The packaging was secure and the planner arrived in perfect condition.,Positive,Social Media
+R0801,2025-11-17,Books & Stationery,textbook,2,The textbook arrived damaged and I am very disappointed.,Negative,Mobile App
+R0802,2025-11-13,Beauty & Personal Care,moisturizer,1,The refund is taking too long and the process is frustrating.,Negative,Social Media
+R0803,2025-09-27,Clothing,cotton shirt,3,"Delivery took a little longer than expected, but the item arrived.",Neutral,Social Media
+R0804,2025-05-17,Beauty & Personal Care,skincare set,1,Delivery was much later than promised and nobody provided an update.,Negative,Email Survey
+R0805,2025-05-25,Beauty & Personal Care,moisturizer,3,The product description was misleading and did not match what I received.,Negative,Mobile App
+R0806,2025-08-19,Beauty & Personal Care,moisturizer,4,The moisturizer was better than expected and arrived on time.,Positive,Mobile App
+R0807,2025-12-21,Beauty & Personal Care,face wash,4,The face wash was better than expected and arrived on time.,Positive,Social Media
+R0808,2025-01-31,Beauty & Personal Care,skincare set,3,I received what I ordered. The overall experience was ordinary.,Neutral,Website
+R0809,2025-11-03,Clothing,jacket,3,"Easy ordering process, helpful updates, and excellent jacket quality.",Positive,Website
+R0810,2025-10-14,Books & Stationery,pen set,4,The packaging was secure and the pen set arrived in perfect condition.,Positive,Website
+R0811,2025-03-09,Home & Kitchen,storage container,4,The packaging was acceptable and the item arrived without damage.,Neutral,Website
+R0812,2025-03-07,Books & Stationery,pen set,4,Great experience. The pen set works perfectly and the price was fair.,Positive,Social Media
+R0813,2025-05-16,Home & Kitchen,bed sheet set,1,The product description was misleading and did not match what I received.,Negative,Email Survey
+R0814,2025-11-22,Clothing,running shoes,5,The return process was simple and the support team was very helpful.,Positive,Social Media
+R0815,2025-12-28,Clothing,cotton shirt,4,"Customer support helped me quickly with my question about the cotton shirt. However, the delivery updates could be better.",Positive,Social Media
+R0816,2025-08-23,Beauty & Personal Care,face wash,5,The return process was simple and the support team was very helpful.,Positive,Social Media
+R0817,2025-03-28,Clothing,cotton shirt,4,"Easy ordering process, helpful updates, and excellent cotton shirt quality.",Positive,Email Survey
+R0818,2025-08-02,Books & Stationery,textbook,3,The packaging was acceptable and the item arrived without damage.,Neutral,Website
+R0819,2025-03-04,Beauty & Personal Care,face wash,3,"Easy ordering process, helpful updates, and excellent face wash quality.",Positive,Social Media
+R0820,2025-12-04,Electronics,Bluetooth speaker,5,Great experience. The Bluetooth speaker works perfectly and the price was fair.,Positive,Social Media
+R0821,2025-06-16,Home & Kitchen,electric kettle,3,"Easy ordering process, helpful updates, and excellent electric kettle quality.",Positive,Mobile App
+R0822,2025-11-05,Electronics,Bluetooth speaker,5,"Easy ordering process, helpful updates, and excellent Bluetooth speaker quality.",Positive,Social Media
+R0823,2025-03-25,Home & Kitchen,storage container,5,Customer support helped me quickly with my question about the storage container.,Positive,Social Media
+R0824,2025-06-08,Home & Kitchen,storage container,1,Delivery was much later than promised and nobody provided an update.,Negative,Mobile App
+R0825,2025-05-18,Electronics,Bluetooth speaker,5,Customer support helped me quickly with my question about the Bluetooth speaker.,Positive,Social Media
+R0826,2025-09-20,Beauty & Personal Care,shampoo,4,Great experience. The shampoo works perfectly and the price was fair.,Positive,Email Survey
+R0827,2025-05-29,Clothing,denim jeans,1,I would not recommend this store because the service was very poor.,Negative,Social Media
+R0828,2025-05-08,Beauty & Personal Care,shampoo,4,Great experience. The shampoo works perfectly and the price was fair.,Positive,Social Media
+R0829,2025-02-18,Electronics,wireless headphones,5,The wireless headphones was better than expected and arrived earlier than expected.,Positive,Social Media
+R0830,2025-01-09,Books & Stationery,planner,2,"Delivery took a little longer than expected, but the item arrived.",Neutral,Website
+R0831,2025-12-27,Beauty & Personal Care,moisturizer,1,"The moisturizer stopped working after a short time. Poor quality. However, the delivery updates could be better.",Negative,Email Survey
+R0832,2025-04-06,Beauty & Personal Care,skincare set,5,The packaging was secure and the skincare set arrived in perfect condition.,Positive,Mobile App
+R0833,2025-03-01,Books & Stationery,planner,4,Really happy with the planner. The quality is excellent.,Positive,Website
+R0834,2025-09-07,Beauty & Personal Care,skincare set,5,I would recommend this skincare set. It offers good value for money.,Positive,Email Survey
+R0835,2025-06-04,Books & Stationery,planner,3,I received what I ordered. The overall experience was ordinary.,Neutral,Website
+R0836,2025-01-14,Electronics,smart watch,4,Really happy with the smart watch. The quality is excellent.,Positive,Mobile App
+R0837,2025-02-14,Clothing,denim jeans,3,"The product is usable, although there is room for improvement.",Neutral,Email Survey
+R0838,2025-12-26,Clothing,jacket,3,The product description was misleading and did not match what I received.,Negative,Social Media
+R0839,2025-07-20,Beauty & Personal Care,face wash,1,I would not recommend this store because the service was very poor.,Negative,Website
+R0840,2025-10-11,Electronics,mobile phone case,5,I would recommend this mobile phone case. It offers good value for money.,Positive,Email Survey
+R0841,2025-08-05,Beauty & Personal Care,skincare set,5,The return process was simple and the support team was very helpful.,Positive,Email Survey
+R0842,2025-06-27,Home & Kitchen,blender,4,"The product is usable, although there is room for improvement.",Neutral,Social Media
+R0843,2025-04-29,Electronics,smart watch,3,"Delivery took a little longer than expected, but the item arrived.",Neutral,Mobile App
+R0844,2025-08-02,Home & Kitchen,blender,3,The blender is average for the price. Nothing especially good or bad.,Neutral,Email Survey
+R0845,2025-03-08,Clothing,denim jeans,2,The refund is taking too long and the process is frustrating.,Negative,Mobile App
+R0846,2025-05-01,Books & Stationery,pen set,5,Really happy with the pen set. The quality is excellent.,Positive,Mobile App
+R0847,2025-09-15,Electronics,Bluetooth speaker,3,"Delivery took a little longer than expected, but the item arrived.",Neutral,Website
+R0848,2025-09-07,Home & Kitchen,blender,2,Delivery was much later than promised and nobody provided an update.,Negative,Email Survey
+R0849,2025-11-06,Home & Kitchen,electric kettle,2,The refund is taking too long and the process is frustrating.,Negative,Website
+R0850,2025-02-22,Beauty & Personal Care,skincare set,2,Delivery was much later than promised and nobody provided an update.,Negative,Website
+R0851,2025-05-30,Clothing,cotton shirt,3,"Customer support answered my question, but the response was quite standard.",Neutral,Social Media
+R0852,2025-03-04,Beauty & Personal Care,face wash,2,The face wash stopped working after a short time. Poor quality.,Negative,Mobile App
+R0853,2025-02-13,Beauty & Personal Care,face wash,5,Customer support helped me quickly with my question about the face wash.,Positive,Email Survey
+R0854,2025-04-27,Beauty & Personal Care,shampoo,5,Customer support helped me quickly with my question about the shampoo.,Positive,Mobile App
+R0855,2025-01-16,Beauty & Personal Care,skincare set,1,I would not recommend this store because the service was very poor.,Negative,Social Media
+R0856,2025-03-26,Electronics,wireless headphones,3,Really happy with the wireless headphones. The quality is excellent.,Positive,Social Media
+R0857,2025-09-24,Electronics,smart watch,5,The smart watch was better than expected and arrived earlier than expected.,Positive,Email Survey
+R0858,2025-09-28,Books & Stationery,planner,4,"Easy ordering process, helpful updates, and excellent planner quality. However, the delivery updates could be better.",Positive,Mobile App
+R0859,2025-11-29,Beauty & Personal Care,moisturizer,2,I would not recommend this store because the service was very poor.,Negative,Social Media
+R0860,2025-03-06,Home & Kitchen,electric kettle,2,The electric kettle arrived damaged and I am very disappointed.,Negative,Email Survey
+R0861,2025-10-04,Books & Stationery,planner,4,"Easy ordering process, helpful updates, and excellent planner quality.",Positive,Email Survey
+R0862,2025-11-18,Home & Kitchen,blender,5,"Really happy with the blender. The quality is excellent. However, the delivery updates could be better.",Positive,Email Survey
+R0863,2025-05-01,Electronics,mobile phone case,5,The packaging was secure and the mobile phone case arrived in perfect condition.,Positive,Mobile App
+R0864,2025-09-22,Home & Kitchen,storage container,4,I would recommend this storage container. It offers good value for money.,Positive,Mobile App
+R0865,2025-02-11,Home & Kitchen,blender,2,Delivery was much later than promised and nobody provided an update.,Negative,Website
+R0866,2025-07-26,Clothing,jacket,5,"Customer support helped me quickly with my question about the jacket. However, the delivery updates could be better.",Positive,Social Media
+R0867,2025-08-02,Books & Stationery,pen set,3,The product description was misleading and did not match what I received.,Negative,Mobile App
+R0868,2025-09-28,Clothing,jacket,5,The return process was simple and the support team was very helpful.,Positive,Website
+R0869,2025-03-02,Beauty & Personal Care,skincare set,3,The skincare set is okay. It meets the basic expectations.,Neutral,Social Media
+R0870,2025-07-11,Home & Kitchen,bed sheet set,5,The bed sheet set was better than expected and arrived earlier than expected.,Positive,Email Survey
+R0871,2025-06-06,Electronics,smart watch,5,Great experience. The smart watch works perfectly and the price was fair.,Positive,Email Survey
+R0872,2025-08-02,Beauty & Personal Care,face wash,5,Really happy with the face wash. The quality is excellent.,Positive,Social Media
+R0873,2025-11-07,Books & Stationery,pen set,2,"Delivery took a little longer than expected, but the item arrived.",Neutral,Mobile App
+R0874,2025-06-16,Books & Stationery,pen set,2,I would not recommend this store because the service was very poor.,Negative,Website
+R0875,2025-01-24,Books & Stationery,pen set,1,The product description was misleading and did not match what I received.,Negative,Social Media
+R0876,2025-06-08,Electronics,smart watch,2,The smart watch arrived damaged and I am very disappointed.,Negative,Website
+R0877,2025-10-19,Electronics,smart watch,3,The packaging was acceptable and the item arrived without damage.,Neutral,Mobile App
+R0878,2025-01-10,Books & Stationery,notebook,1,Delivery was much later than promised and nobody provided an update.,Negative,Email Survey
+R0879,2025-01-24,Clothing,jacket,1,Delivery was much later than promised and nobody provided an update.,Negative,Social Media
+R0880,2025-06-12,Electronics,Bluetooth speaker,2,The product description was misleading and did not match what I received.,Negative,Social Media
+R0881,2025-02-15,Electronics,wireless headphones,4,Great experience. The wireless headphones works perfectly and the price was fair.,Positive,Mobile App
+R0882,2025-01-30,Beauty & Personal Care,moisturizer,4,The moisturizer was better than expected and arrived earlier than expected.,Positive,Email Survey
+R0883,2025-03-03,Home & Kitchen,storage container,5,I would recommend this storage container. It offers good value for money.,Positive,Website
+R0884,2025-02-28,Books & Stationery,textbook,5,The return process was simple and the support team was very helpful.,Positive,Email Survey
+R0885,2025-01-10,Beauty & Personal Care,skincare set,5,"Really happy with the skincare set. The quality is excellent. However, the delivery updates could be better.",Positive,Email Survey
+R0886,2025-10-18,Books & Stationery,notebook,3,The notebook is average for the price. Nothing especially good or bad.,Neutral,Social Media
+R0887,2025-05-06,Books & Stationery,textbook,4,Great experience. The textbook works perfectly and the price was fair.,Positive,Social Media
+R0888,2025-11-14,Books & Stationery,pen set,3,The pen set arrived damaged and I am very disappointed.,Negative,Email Survey
+R0889,2025-12-15,Clothing,cotton shirt,3,The cotton shirt is okay. It meets the basic expectations.,Neutral,Social Media
+R0890,2025-06-03,Clothing,running shoes,2,The running shoes arrived damaged and I am very disappointed.,Negative,Website
+R0891,2025-06-12,Electronics,smart watch,5,The packaging was secure and the smart watch arrived in perfect condition.,Positive,Email Survey
+R0892,2025-08-24,Beauty & Personal Care,shampoo,3,The shampoo is average for the price. Nothing especially good or bad.,Neutral,Email Survey
+R0893,2025-07-31,Clothing,cotton shirt,5,The return process was simple and the support team was very helpful.,Positive,Social Media
+R0894,2025-12-10,Books & Stationery,notebook,2,"Delivery was much later than promised and nobody provided an update. However, the delivery updates could be better.",Negative,Social Media
+R0895,2025-12-23,Home & Kitchen,blender,3,"Customer support answered my question, but the response was quite standard.",Neutral,Website
+R0896,2025-05-24,Home & Kitchen,storage container,4,The return process was simple and the support team was very helpful.,Positive,Email Survey
+R0897,2025-01-19,Books & Stationery,planner,3,Customer support helped me quickly with my question about the planner.,Positive,Email Survey
+R0898,2025-02-26,Books & Stationery,textbook,3,The textbook is okay. It meets the basic expectations.,Neutral,Email Survey
+R0899,2025-12-16,Beauty & Personal Care,moisturizer,3,The packaging was acceptable and the item arrived without damage.,Neutral,Mobile App
+R0900,2025-09-25,Clothing,cotton shirt,5,Great experience. The cotton shirt works perfectly and the price was fair.,Positive,Email Survey
+R0901,2025-11-29,Electronics,Bluetooth speaker,5,The return process was simple and the support team was very helpful.,Positive,Website
+R0902,2025-09-11,Home & Kitchen,blender,1,The product description was misleading and did not match what I received.,Negative,Email Survey
+R0903,2025-06-11,Electronics,smart watch,3,The smart watch is okay. It meets the basic expectations.,Neutral,Website
+R0904,2025-02-08,Home & Kitchen,electric kettle,5,The electric kettle was better than expected and arrived earlier than expected.,Positive,Mobile App
+R0905,2025-08-10,Home & Kitchen,bed sheet set,4,Really happy with the bed sheet set. The quality is excellent.,Positive,Website
+R0906,2025-01-28,Home & Kitchen,bed sheet set,4,The bed sheet set is average for the price. Nothing especially good or bad.,Neutral,Email Survey
+R0907,2025-11-17,Clothing,cotton shirt,2,"Customer support answered my question, but the response was quite standard.",Neutral,Social Media
+R0908,2025-02-03,Electronics,wireless headphones,2,The wireless headphones is okay. It meets the basic expectations.,Neutral,Mobile App
+R0909,2025-12-13,Beauty & Personal Care,face wash,4,The packaging was secure and the face wash arrived in perfect condition.,Positive,Website
+R0910,2025-11-03,Home & Kitchen,blender,3,"The product is usable, although there is room for improvement.",Neutral,Website
+R0911,2025-01-14,Beauty & Personal Care,skincare set,5,Really happy with the skincare set. The quality is excellent.,Positive,Social Media
+R0912,2025-10-31,Books & Stationery,textbook,2,"The textbook is okay. It meets the basic expectations. However, the delivery updates could be better.",Neutral,Mobile App
+R0913,2025-04-06,Clothing,running shoes,2,The item was poorly packaged and arrived with missing parts.,Negative,Mobile App
+R0914,2025-11-30,Electronics,wireless headphones,5,Great experience. The wireless headphones works perfectly and the price was fair.,Positive,Email Survey
+R0915,2025-07-08,Books & Stationery,textbook,4,Great experience. The textbook works perfectly and the price was fair.,Positive,Website
+R0916,2025-01-28,Clothing,cotton shirt,3,The cotton shirt is average for the price. Nothing especially good or bad.,Neutral,Social Media
+R0917,2025-12-21,Clothing,denim jeans,5,Really happy with the denim jeans. The quality is excellent.,Positive,Social Media
+R0918,2025-08-21,Home & Kitchen,bed sheet set,3,The packaging was acceptable and the item arrived without damage.,Neutral,Website
+R0919,2025-09-04,Electronics,smart watch,3,I received what I ordered. The overall experience was ordinary.,Neutral,Email Survey
+R0920,2025-01-06,Beauty & Personal Care,moisturizer,1,The product description was misleading and did not match what I received.,Negative,Website
+R0921,2025-07-04,Books & Stationery,notebook,5,Great experience. The notebook works perfectly and the price was fair.,Positive,Website
+R0922,2025-03-31,Clothing,denim jeans,1,The refund is taking too long and the process is frustrating.,Negative,Email Survey
+R0923,2025-02-21,Clothing,denim jeans,1,I contacted customer support several times but my issue is still unresolved.,Negative,Website
+R0924,2025-05-03,Clothing,jacket,1,Delivery was much later than promised and nobody provided an update.,Negative,Email Survey
+R0925,2025-04-08,Clothing,jacket,3,Delivery was much later than promised and nobody provided an update.,Negative,Mobile App
+R0926,2025-01-24,Home & Kitchen,bed sheet set,3,The packaging was acceptable and the item arrived without damage.,Neutral,Mobile App
+R0927,2025-03-06,Home & Kitchen,storage container,2,"The item was poorly packaged and arrived with missing parts. However, the delivery updates could be better.",Negative,Social Media
+R0928,2025-11-27,Electronics,mobile phone case,5,Really happy with the mobile phone case. The quality is excellent.,Positive,Email Survey
+R0929,2025-09-11,Beauty & Personal Care,moisturizer,3,"Delivery took a little longer than expected, but the item arrived.",Neutral,Social Media
+R0930,2025-05-01,Beauty & Personal Care,face wash,5,Customer support helped me quickly with my question about the face wash.,Positive,Social Media
+R0931,2025-02-13,Beauty & Personal Care,skincare set,4,Great experience. The skincare set works perfectly and the price was fair.,Positive,Email Survey
+R0932,2025-08-19,Home & Kitchen,storage container,4,The storage container was better than expected and arrived on time.,Positive,Social Media
+R0933,2025-04-30,Home & Kitchen,blender,4,"Easy ordering process, helpful updates, and excellent blender quality.",Positive,Email Survey
+R0934,2025-05-22,Home & Kitchen,electric kettle,3,"Delivery took a little longer than expected, but the item arrived.",Neutral,Mobile App
+R0935,2025-06-18,Electronics,Bluetooth speaker,4,The Bluetooth speaker was better than expected and arrived earlier than expected.,Positive,Email Survey
+R0936,2025-01-05,Home & Kitchen,storage container,5,Great experience. The storage container works perfectly and the price was fair.,Positive,Email Survey
+R0937,2025-12-01,Home & Kitchen,blender,4,I would recommend this blender. It offers good value for money.,Positive,Mobile App
+R0938,2025-10-10,Clothing,denim jeans,2,I contacted customer support several times but my issue is still unresolved.,Negative,Social Media
+R0939,2025-12-24,Beauty & Personal Care,shampoo,1,Delivery was much later than promised and nobody provided an update.,Negative,Social Media
+R0940,2025-01-05,Beauty & Personal Care,face wash,4,"Easy ordering process, helpful updates, and excellent face wash quality.",Positive,Social Media
+R0941,2025-12-20,Home & Kitchen,bed sheet set,2,I contacted customer support several times but my issue is still unresolved.,Negative,Email Survey
+R0942,2025-10-18,Electronics,wireless headphones,3,Great experience. The wireless headphones works perfectly and the price was fair.,Positive,Social Media
+R0943,2025-06-18,Clothing,jacket,1,Delivery was much later than promised and nobody provided an update.,Negative,Social Media
+R0944,2025-12-19,Home & Kitchen,electric kettle,3,The electric kettle is average for the price. Nothing especially good or bad.,Neutral,Social Media
+R0945,2025-09-26,Clothing,cotton shirt,4,I would recommend this cotton shirt. It offers good value for money.,Positive,Website
+R0946,2025-03-22,Home & Kitchen,electric kettle,5,Great experience. The electric kettle works perfectly and the price was fair.,Positive,Website
+R0947,2025-03-08,Beauty & Personal Care,skincare set,5,Really happy with the skincare set. The quality is excellent.,Positive,Mobile App
+R0948,2025-08-23,Beauty & Personal Care,moisturizer,5,The packaging was secure and the moisturizer arrived in perfect condition.,Positive,Email Survey
+R0949,2025-06-18,Clothing,jacket,4,Really happy with the jacket. The quality is excellent.,Positive,Social Media
+R0950,2025-06-27,Books & Stationery,notebook,5,Really happy with the notebook. The quality is excellent.,Positive,Email Survey
+R0951,2025-08-23,Clothing,jacket,5,Customer support helped me quickly with my question about the jacket.,Positive,Social Media
+R0952,2025-03-22,Clothing,cotton shirt,1,The product description was misleading and did not match what I received.,Negative,Email Survey
+R0953,2025-09-10,Books & Stationery,planner,3,Delivery was much later than promised and nobody provided an update.,Negative,Social Media
+R0954,2025-06-16,Books & Stationery,notebook,1,The item was poorly packaged and arrived with missing parts.,Negative,Social Media
+R0955,2025-12-12,Home & Kitchen,storage container,5,"The storage container was better than expected and arrived on time. However, the delivery updates could be better.",Positive,Social Media
+R0956,2025-03-11,Beauty & Personal Care,moisturizer,4,"I would recommend this moisturizer. It offers good value for money. However, the delivery updates could be better.",Positive,Email Survey
+R0957,2025-08-13,Beauty & Personal Care,skincare set,3,"The product is usable, although there is room for improvement.",Neutral,Mobile App
+R0958,2025-03-05,Home & Kitchen,storage container,4,Great experience. The storage container works perfectly and the price was fair.,Positive,Social Media
+R0959,2025-01-18,Electronics,Bluetooth speaker,4,Great experience. The Bluetooth speaker works perfectly and the price was fair.,Positive,Mobile App
+R0960,2025-01-03,Electronics,wireless headphones,4,I would recommend this wireless headphones. It offers good value for money.,Positive,Website
+R0961,2025-01-15,Clothing,denim jeans,1,The item was poorly packaged and arrived with missing parts.,Negative,Website
+R0962,2025-03-27,Clothing,cotton shirt,5,Customer support helped me quickly with my question about the cotton shirt.,Positive,Mobile App
+R0963,2025-04-17,Books & Stationery,notebook,4,"Easy ordering process, helpful updates, and excellent notebook quality.",Positive,Social Media
+R0964,2025-07-25,Electronics,smart watch,1,I contacted customer support several times but my issue is still unresolved.,Negative,Email Survey
+R0965,2025-11-16,Clothing,jacket,4,Customer support helped me quickly with my question about the jacket.,Positive,Email Survey
+R0966,2025-12-31,Clothing,jacket,3,The packaging was secure and the jacket arrived in perfect condition.,Positive,Mobile App
+R0967,2025-03-10,Electronics,Bluetooth speaker,5,I would recommend this Bluetooth speaker. It offers good value for money.,Positive,Email Survey
+R0968,2025-08-18,Home & Kitchen,blender,5,"Really happy with the blender. The quality is excellent. However, the delivery updates could be better.",Positive,Social Media
+R0969,2025-06-08,Clothing,cotton shirt,4,The cotton shirt is average for the price. Nothing especially good or bad.,Neutral,Mobile App
+R0970,2025-03-19,Clothing,cotton shirt,1,The cotton shirt arrived damaged and I am very disappointed.,Negative,Social Media
+R0971,2025-06-12,Electronics,smart watch,4,The return process was simple and the support team was very helpful.,Positive,Website
+R0972,2025-06-25,Beauty & Personal Care,shampoo,2,"Customer support answered my question, but the response was quite standard.",Neutral,Mobile App
+R0973,2025-04-04,Electronics,smart watch,5,Customer support helped me quickly with my question about the smart watch.,Positive,Social Media
+R0974,2025-04-15,Electronics,mobile phone case,4,"The mobile phone case is okay. It meets the basic expectations. However, the delivery updates could be better.",Neutral,Mobile App
+R0975,2025-06-09,Books & Stationery,textbook,5,"Customer support helped me quickly with my question about the textbook. However, the delivery updates could be better.",Positive,Mobile App
+R0976,2025-08-18,Clothing,jacket,1,The jacket stopped working after a short time. Poor quality.,Negative,Mobile App
+R0977,2025-08-05,Beauty & Personal Care,face wash,5,"Easy ordering process, helpful updates, and excellent face wash quality.",Positive,Social Media
+R0978,2025-06-03,Beauty & Personal Care,face wash,2,The product description was misleading and did not match what I received.,Negative,Mobile App
+R0979,2025-10-15,Clothing,running shoes,3,"The product is usable, although there is room for improvement.",Neutral,Social Media
+R0980,2025-09-14,Clothing,jacket,4,Customer support helped me quickly with my question about the jacket.,Positive,Email Survey
+R0981,2025-10-29,Beauty & Personal Care,skincare set,3,I received what I ordered. The overall experience was ordinary.,Neutral,Website
+R0982,2025-05-11,Electronics,wireless headphones,5,I would recommend this wireless headphones. It offers good value for money.,Positive,Email Survey
+R0983,2025-05-07,Beauty & Personal Care,shampoo,4,I received what I ordered. The overall experience was ordinary.,Neutral,Mobile App
+R0984,2025-03-17,Home & Kitchen,electric kettle,5,Great experience. The electric kettle works perfectly and the price was fair.,Positive,Email Survey
+R0985,2025-07-16,Books & Stationery,textbook,5,The textbook was better than expected and arrived quickly.,Positive,Social Media
+R0986,2025-06-04,Electronics,smart watch,1,The product description was misleading and did not match what I received.,Negative,Social Media
+R0987,2025-03-15,Beauty & Personal Care,face wash,2,The face wash is okay. It meets the basic expectations.,Neutral,Email Survey
+R0988,2025-02-05,Beauty & Personal Care,shampoo,1,The shampoo arrived damaged and I am very disappointed.,Negative,Social Media
+R0989,2025-04-12,Home & Kitchen,blender,2,The blender is average for the price. Nothing especially good or bad.,Neutral,Social Media
+R0990,2025-04-09,Electronics,mobile phone case,5,Customer support helped me quickly with my question about the mobile phone case.,Positive,Email Survey
+R0991,2025-07-13,Beauty & Personal Care,skincare set,1,Delivery was much later than promised and nobody provided an update.,Negative,Website
+R0992,2025-01-05,Home & Kitchen,electric kettle,5,Customer support helped me quickly with my question about the electric kettle.,Positive,Website
+R0993,2025-11-05,Electronics,wireless headphones,4,Really happy with the wireless headphones. The quality is excellent.,Positive,Email Survey
+R0994,2025-06-11,Beauty & Personal Care,shampoo,2,The product description was misleading and did not match what I received.,Negative,Mobile App
+R0995,2025-01-02,Beauty & Personal Care,skincare set,2,The skincare set arrived damaged and I am very disappointed.,Negative,Social Media
+R0996,2025-12-25,Beauty & Personal Care,moisturizer,1,The moisturizer arrived damaged and I am very disappointed.,Negative,Mobile App
+R0997,2025-06-14,Books & Stationery,pen set,3,I would recommend this pen set. It offers good value for money.,Positive,Website
+R0998,2025-11-10,Electronics,Bluetooth speaker,3,I received what I ordered. The overall experience was ordinary.,Neutral,Website
+R0999,2025-09-24,Beauty & Personal Care,face wash,5,I would recommend this face wash. It offers good value for money.,Positive,Website
+R1000,2025-09-04,Electronics,Bluetooth speaker,3,The return process was simple and the support team was very helpful.,Positive,Mobile App

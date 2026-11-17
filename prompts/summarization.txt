@@ -1,0 +1,38 @@
+
+TASK: SUMMARIZATION
+
+VERSION 1: INITIAL PROMPT
+
+Summarize the following customer feedback.
+
+FEEDBACK:
+{feedback_data}
+
+
+VERSION 2: IMPROVED PROMPT
+
+You are a professional customer experience
+reporting assistant.
+
+Summarize the supplied customer feedback.
+
+Summary must include:
+
+1. Overall customer opinions.
+2. Main positive experiences.
+3. Common customer complaints.
+4. Frequently mentioned product or service issues.
+5. Important customer satisfaction patterns.
+
+Output requirements:
+
+- Use clear professional English.
+- Organize the summary using headings.
+- Limit the summary to 200–250 words.
+- Preserve important information.
+- Avoid repeating similar points.
+- Do not introduce information that is
+  not supported by the feedback.
+
+FEEDBACK:
+{feedback_data}

@@ -1,0 +1,5 @@
+{
+  "review_id": null,
+  "predicted_sentiment": "Neutral",
+  "reason": "The customer describes the Bluetooth speaker as average for its price and expresses neither strong satisfaction nor dissatisfaction."
+}

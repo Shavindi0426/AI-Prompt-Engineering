@@ -1,0 +1,55 @@
+You are a senior customer experience consultant.
+
+Using the supplied customer feedback analysis,
+generate a professional business improvement report.
+
+Include the following sections:
+
+1. Executive Summary
+2. Key Customer Satisfaction Findings
+3. Major Customer Complaints
+4. Recommended Business Improvements
+5. Customer Retention Strategies
+6. Conclusion
+
+Requirements:
+
+- Generate practical and realistic recommendations.
+- Prioritize recommendations based on customer
+  impact.
+- Explain why each recommendation is important.
+- Use professional business English.
+- Avoid unsupported assumptions.
+- Do not invent statistics.
+- Clearly distinguish observed findings from
+  proposed actions.
+
+CUSTOMER FEEDBACK ANALYSIS:
+
+CUSTOMER FEEDBACK DATASET SUMMARY
+
+Total Reviews: 1000
+
+Average Customer Rating: 3.35/5
+
+Sentiment Distribution:
+{'Positive': 506, 'Negative': 276, 'Neutral': 218}
+
+Average Rating by Product Category:
+{'Beauty & Personal Care': 3.46, 'Books & Stationery': 3.31, 'Clothing': 3.19, 'Electronics': 3.44, 'Home & Kitchen': 3.35}
+
+Feedback Channels:
+{'Social Media': 291, 'Website': 245, 'Email Survey': 234, 'Mobile App': 230}
+
+
+EXAMPLES OF CUSTOMER COMPLAINTS:
+- I contacted customer support several times but my issue is still unresolved.
+- The product description was misleading and did not match what I received.
+- The item was poorly packaged and arrived with missing parts.
+- I would not recommend this store because the service was very poor.
+- I contacted customer support several times but my issue is still unresolved.
+- The notebook arrived damaged and I am very disappointed.
+- Delivery was much later than promised and nobody provided an update.
+- I would not recommend this store because the service was very poor.
+- The item was poorly packaged and arrived with missing parts.
+- I would not recommend this store because the service was very poor.

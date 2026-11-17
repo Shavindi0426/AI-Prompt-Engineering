@@ -1,0 +1,182 @@
+Summarize the following customer feedback.
+
+FEEDBACK:
+Review ID: R0005
+Category: Home & Kitchen
+Rating: 4/5
+Feedback: The bed sheet set was better than expected and arrived earlier than expected.
+Reference Sentiment: Positive
+
+Review ID: R0008
+Category: Home & Kitchen
+Rating: 4/5
+Feedback: Great experience. The electric kettle works perfectly and the price was fair.
+Reference Sentiment: Positive
+
+Review ID: R0010
+Category: Clothing
+Rating: 5/5
+Feedback: Customer support helped me quickly with my question about the running shoes.
+Reference Sentiment: Positive
+
+Review ID: R0011
+Category: Clothing
+Rating: 5/5
+Feedback: The packaging was secure and the denim jeans arrived in perfect condition.
+Reference Sentiment: Positive
+
+Review ID: R0012
+Category: Clothing
+Rating: 4/5
+Feedback: Really happy with the jacket. The quality is excellent.
+Reference Sentiment: Positive
+
+Review ID: R0015
+Category: Home & Kitchen
+Rating: 5/5
+Feedback: Really happy with the storage container. The quality is excellent.
+Reference Sentiment: Positive
+
+Review ID: R0016
+Category: Clothing
+Rating: 5/5
+Feedback: Easy ordering process, helpful updates, and excellent cotton shirt quality. However, the delivery updates could be better.
+Reference Sentiment: Positive
+
+Review ID: R0017
+Category: Books & Stationery
+Rating: 4/5
+Feedback: Really happy with the notebook. The quality is excellent.
+Reference Sentiment: Positive
+
+Review ID: R0018
+Category: Beauty & Personal Care
+Rating: 5/5
+Feedback: The packaging was secure and the moisturizer arrived in perfect condition.
+Reference Sentiment: Positive
+
+Review ID: R0020
+Category: Books & Stationery
+Rating: 5/5
+Feedback: Customer support helped me quickly with my question about the textbook. However, the delivery updates could be better.
+Reference Sentiment: Positive
+
+Review ID: R0003
+Category: Books & Stationery
+Rating: 2/5
+Feedback: I contacted customer support several times but my issue is still unresolved.
+Reference Sentiment: Negative
+
+Review ID: R0007
+Category: Clothing
+Rating: 2/5
+Feedback: The product description was misleading and did not match what I received.
+Reference Sentiment: Negative
+
+Review ID: R0009
+Category: Books & Stationery
+Rating: 1/5
+Feedback: The item was poorly packaged and arrived with missing parts.
+Reference Sentiment: Negative
+
+Review ID: R0019
+Category: Beauty & Personal Care
+Rating: 1/5
+Feedback: I would not recommend this store because the service was very poor.
+Reference Sentiment: Negative
+
+Review ID: R0021
+Category: Home & Kitchen
+Rating: 1/5
+Feedback: I contacted customer support several times but my issue is still unresolved.
+Reference Sentiment: Negative
+
+Review ID: R0025
+Category: Books & Stationery
+Rating: 2/5
+Feedback: The notebook arrived damaged and I am very disappointed.
+Reference Sentiment: Negative
+
+Review ID: R0035
+Category: Clothing
+Rating: 1/5
+Feedback: Delivery was much later than promised and nobody provided an update.
+Reference Sentiment: Negative
+
+Review ID: R0036
+Category: Clothing
+Rating: 2/5
+Feedback: I would not recommend this store because the service was very poor.
+Reference Sentiment: Negative
+
+Review ID: R0037
+Category: Electronics
+Rating: 1/5
+Feedback: The item was poorly packaged and arrived with missing parts.
+Reference Sentiment: Negative
+
+Review ID: R0042
+Category: Clothing
+Rating: 2/5
+Feedback: I would not recommend this store because the service was very poor.
+Reference Sentiment: Negative
+
+Review ID: R0001
+Category: Electronics
+Rating: 3/5
+Feedback: The Bluetooth speaker is average for the price. Nothing especially good or bad.
+Reference Sentiment: Neutral
+
+Review ID: R0002
+Category: Electronics
+Rating: 3/5
+Feedback: The wireless headphones is okay. It meets the basic expectations.
+Reference Sentiment: Neutral
+
+Review ID: R0004
+Category: Home & Kitchen
+Rating: 3/5
+Feedback: The bed sheet set is average for the price. Nothing especially good or bad.
+Reference Sentiment: Neutral
+
+Review ID: R0006
+Category: Books & Stationery
+Rating: 3/5
+Feedback: The packaging was acceptable and the item arrived without damage.
+Reference Sentiment: Neutral
+
+Review ID: R0013
+Category: Beauty & Personal Care
+Rating: 4/5
+Feedback: The packaging was acceptable and the item arrived without damage.
+Reference Sentiment: Neutral
+
+Review ID: R0014
+Category: Books & Stationery
+Rating: 3/5
+Feedback: Customer support answered my question, but the response was quite standard.
+Reference Sentiment: Neutral
+
+Review ID: R0030
+Category: Clothing
+Rating: 3/5
+Feedback: The jacket is okay. It meets the basic expectations.
+Reference Sentiment: Neutral
+
+Review ID: R0038
+Category: Electronics
+Rating: 2/5
+Feedback: I received what I ordered. The overall experience was ordinary.
+Reference Sentiment: Neutral
+
+Review ID: R0044
+Category: Beauty & Personal Care
+Rating: 3/5
+Feedback: The shampoo is okay. It meets the basic expectations.
+Reference Sentiment: Neutral
+
+Review ID: R0048
+Category: Home & Kitchen
+Rating: 3/5
+Feedback: I received what I ordered. The overall experience was ordinary.
+Reference Sentiment: Neutral

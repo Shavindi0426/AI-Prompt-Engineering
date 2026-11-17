@@ -1,0 +1,137 @@
+1. Executive Summary
+The customer feedback dataset contains 1,000 customer reviews collected through four different feedback channels. The overall average customer rating is 3.35 out of 5, indicating a moderate level of customer satisfaction.
+
+The sentiment analysis shows that more than half of the customers expressed positive opinions. However, a considerable proportion of customers provided negative or neutral feedback, indicating opportunities for improvement.
+
+The analysis identifies Clothing as the lowest-rated product category, while Beauty & Personal Care receives the highest average rating.
+2. Overall Customer Satisfaction
+[Chart 1 - Overall Customer Satisfaction]
+
+
+Overall rating is above the midpoint of 2.5, but there is room for improvement.
+Key insight:
+- The average rating of 3.35 suggests that customers are generally reasonably satisfied.
+- However, the rating is not high enough to indicate excellent customer satisfaction.
+- The business should investigate the reasons behind lower ratings and identify opportunities to improve customer experiences.
+3. Sentiment Distribution Analysis
+The sentiment distribution consists of positive, negative, and neutral customer feedback.
+Sentiment	Reviews	    Percentage
+Positive	 506	      50.6%
+Negative	 276       	  27.6%
+Neutral	     218	      21.8%
+Total	   1,000	       100%
+
+Distribution of customer sentiment across 1,000 reviews.
+[Chart 2 – Customer Sentiment Distribution: See attached screenshot]
+
+
+Key insights:
+1. Positive feedback (50.6%): More than half of customers expressed positive opinions, indicating that the business has a reasonably good customer experience.
+2. Negative feedback (27.6%): Approximately 28% of customers expressed dissatisfaction. This is a significant proportion that requires management attention.
+3. Neutral feedback (21.8%): More than one-fifth of customers neither expressed clearly positive nor negative opinions. This group could potentially be converted into satisfied customers through better service and product improvements.
+Recommendation: The business should investigate recurring complaints in negative reviews and identify ways to improve the customer experience.
+4. Customer Satisfaction by Product Category
+The average ratings across five product categories are as follows:
+Product Category	        Average Rating
+Beauty & Personal Care	         3.46
+Electronics	                     3.44
+Home & Kitchen                 	 3.35
+Books & Stationery	             3.31
+Clothing	                     3.19
+
+Distribution of Average customer rating by product category, out of 5.
+[Chart 3 - Average customer rating by product category, out of 5.]
+
+
+Key insights:
+- Highest-rated category: Beauty & Personal Care (3.46), suggesting relatively better customer satisfaction.
+- Second-highest category: Electronics (3.44), indicating a similarly positive customer experience.
+- Lowest-rated category: Clothing (3.19), suggesting potential issues with product quality, sizing, delivery, or customer expectations.
+- Home & Kitchen (3.35): Matches the overall average rating.
+- Books & Stationery (3.31): Slightly below the overall average.
+Recommendations:
+1. Investigate customer complaints related to Clothing products.
+2. Review product descriptions, sizing information, quality, and return policies.
+3. Maintain the product quality and customer service standards of Beauty & Personal Care and Electronics.
+4. Collect additional feedback to understand the specific reasons behind lower ratings.
+5. Feedback Channel Analysis
+Customers provided feedback through four different channels.
+Feedback Channel	 Number of Reviews	 Percentage
+Social Media	          291	           29.1%
+Website	                  245	           24.5%
+Email Survey	          234	           23.4%
+Mobile App	              230	           23.0%
+
+Distribution of Number of customer reviews received through each feedback channel.
+[Chart 4 - Number of customer reviews received through each feedback channel]
+
+
+Key insights:
+- Social Media is the most frequently used feedback channel, accounting for 29.1% of reviews.
+- The Website contributes 24.5% of feedback.
+- Email Surveys account for 23.4%.
+- The Mobile App contributes 23%, making it the least-used channel.
+- Feedback is relatively evenly distributed across all four channels.
+Recommendations:
+1. Monitor social media platforms regularly because they generate the highest volume of feedback.
+2. Improve the feedback submission experience on the mobile application.
+3. Encourage customers to participate in email surveys.
+4. Integrate feedback from all four channels into a centralized customer feedback management system.
+6. Major Findings
+The following table summarizes the most important findings.
+Area	Finding	Business Implication
+Overall satisfaction	Average rating is 3.35/5	Customer satisfaction needs improvement
+Positive sentiment	50.6%	More than half of customers are satisfied
+Negative sentiment	27.6%	Significant dissatisfaction exists
+Neutral sentiment	21.8%	Opportunity to improve customer experience
+Best category	Beauty & Personal Care (3.46)	Maintain existing standards
+Worst category	Clothing (3.19)	Requires immediate investigation
+Main feedback channel	Social Media (29.1%)	Prioritize social media monitoring
+
+7. Business Recommendations
+Based on the analysis, the following actions are recommended:
+
+1. Improve product quality
+
+Focus particularly on the Clothing category, which has the lowest average rating. Investigate product quality, sizing accuracy, and customer complaints.
+
+2. Address negative customer feedback
+
+Analyze negative reviews to identify recurring problems, such as delivery delays, product defects, poor customer service, and incorrect product descriptions.
+
+3. Convert neutral customers into satisfied customers
+
+Introduce customer engagement activities, loyalty programs, personalized offers, and improved after-sales services.
+
+4. Strengthen customer feedback management
+
+Monitor feedback across social media, websites, email surveys, and mobile applications to identify customer concerns quickly.
+
+5. Maintain high-performing categories
+
+Continue monitoring Beauty & Personal Care and Electronics to maintain their relatively higher satisfaction levels.
+
+6. Monitor customer satisfaction regularly
+
+Use a customer satisfaction dashboard to track average ratings, sentiment distribution, product category performance, and feedback channel usage over time.
+8. Conclusion
+The analysis of 1,000 customer reviews indicates that the business has a moderate level of customer satisfaction, with an average rating of 3.35 out of 5. Although 50.6% of customers provided positive feedback, 27.6% expressed negative opinions, highlighting areas that require attention.
+
+Beauty & Personal Care is the highest-rated product category, while Clothing has the lowest rating and should be prioritized for improvement. Social Media is the most frequently used feedback channel, making it an important platform for monitoring customer opinions.
+
+Overall, the business should focus on improving product quality, addressing customer complaints, strengthening customer engagement, and continuously monitoring feedback to increase customer satisfaction and customer loyalty.
+
+9. Suggested KPIs for a Customer Satisfaction Dashboard
+To monitor future performance, the business can track these KPIs:
+KPI	                   Current Value	               Purpose
+Total Reviews	          1,000	            Measure feedback volume
+Average Rating	          3.35/5	        Measure overall satisfaction
+Positive Sentiment	      50.6%	            Monitor positive experiences
+Negative Sentiment	      27.6%	            Identify dissatisfaction
+Neutral Sentiment	      21.8%	            Identify improvement opportunities
+Highest-rated Category	  3.46	            Identify strong-performing categories
+Lowest-rated Category	  3.19	            Identify areas needing improvement
+
+Important analytical limitation: The dataset provides summary statistics rather than individual customer reviews. Therefore, we cannot determine the exact reasons for dissatisfaction, calculate sentiment by product category, or compare satisfaction across feedback channels. These analyses would require the original review-level dataset.
+
+The next step would be to build a Power BI dashboard using these KPIs to help management monitor customer satisfaction interactively.

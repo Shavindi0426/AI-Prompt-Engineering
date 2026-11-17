@@ -1,0 +1,5 @@
+Classify the following customer feedback as
+Positive, Negative, or Neutral.
+
+FEEDBACK:
+The Bluetooth speaker is average for the price. Nothing especially good or bad.
