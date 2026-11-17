@@ -146,7 +146,7 @@ An interactive Power BI dashboard was developed to present the customer feedback
 
 ### Dashboard Preview
 
-![Customer Feedback Analysis Power BI Dashboard](powerbi/image.png)
+![Customer Feedback Analysis Power BI Dashboard](powerbi/dashboard.png)
 
 The complete Power BI dashboard file is available in the `powerbi` folder:
 
